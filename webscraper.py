@@ -1,6 +1,11 @@
 from bs4 import BeautifulSoup
 import csv
 import os
+import requests
+import urllib.request
+from pprint import pprint
+from html_table_parser.parser import HTMLTableParser
+import pandas as pd
 
 def RansomHub():
 
@@ -75,4 +80,35 @@ def Play():
         writer = csv.writer(f, delimiter=',')
         writer.writerows(data)
 
-Play()
+
+def LockBit3():
+
+    # defining the html contents of a URL.
+    url = 'https://www.ransomlook.io/group/lockbit3'
+    html_content = requests.get(url).text
+    soup = BeautifulSoup(html_content, 'html.parser')
+    table = soup.find_all('table')
+
+    posts = table[2]
+    content = posts.find_all('td')
+    dateidx = 0
+    victimidx = 1
+    data = []
+
+    while(dateidx<len(content)):
+        date = content[dateidx].text.strip()
+        victim = content[victimidx].text.strip()
+        group = 'Lockbit3' 
+        dateidx +=4
+        victimidx +=4
+        cell = [date, victim, group]
+        data.append(cell)
+
+        print(cell)   
+
+    with open("Lockbit3.csv", "w", newline='') as f:
+        writer = csv.writer(f, delimiter=',')
+        writer.writerows(data)
+
+
+LockBit3()
