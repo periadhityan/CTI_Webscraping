@@ -2,10 +2,6 @@ from bs4 import BeautifulSoup
 import csv
 import os
 import requests
-import urllib.request
-from pprint import pprint
-from html_table_parser.parser import HTMLTableParser
-import pandas as pd
 
 def RansomHub():
 
@@ -110,5 +106,6 @@ def LockBit3():
         writer = csv.writer(f, delimiter=',')
         writer.writerows(data)
 
-
-LockBit3()
+#RansomHub()
+#Play()
+#LockBit3()
