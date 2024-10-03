@@ -1,0 +1,335 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20242.24.0910.0334                               -->
+<workbook original-version='18.1' source-build='2024.2.3 (20242.24.0910.0334)' source-platform='mac' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.AnimationOnByDefault.true...AnimationOnByDefault />
+    <MapboxVectorStylesAndLayers />
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <_.fcp.AnimationOnByDefault.false...style>
+    <_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule element='animation'>
+      <_.fcp.AnimationOnByDefault.false...format attr='animation-on' value='ao-on' />
+    </_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule>
+  </_.fcp.AnimationOnByDefault.false...style>
+  <datasources>
+    <datasource caption='Lockbit3_Percentage' inline='true' name='federated.0gmt35z1ypxa6f11vnoaw0ojr3j8' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='Lockbit3_Percentage' name='textscan.1qz4p3t14a1wep17qjisb03cw66x'>
+            <connection class='textscan' directory='/Users/periadhityan/Desktop/webscraping' filename='Lockbit3_Percentage.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.1qz4p3t14a1wep17qjisb03cw66x' name='Lockbit3_Percentage.csv' table='[Lockbit3_Percentage#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_SG' separator=','>
+            <column datatype='integer' name='F1' ordinal='0' />
+            <column datatype='string' name='Country' ordinal='1' />
+            <column datatype='real' name='Percent' ordinal='2' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='textscan.1qz4p3t14a1wep17qjisb03cw66x' name='Lockbit3_Percentage.csv' table='[Lockbit3_Percentage#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_SG' separator=','>
+            <column datatype='integer' name='F1' ordinal='0' />
+            <column datatype='string' name='Country' ordinal='1' />
+            <column datatype='real' name='Percent' ordinal='2' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[Lockbit3_Percentage.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_GB&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_SG&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F1</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[F1]</local-name>
+            <parent-name>[Lockbit3_Percentage.csv]</parent-name>
+            <remote-alias>F1</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Lockbit3_Percentage.csv_F2147779C7244B898F52D7289DD63F0C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Country</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Country]</local-name>
+            <parent-name>[Lockbit3_Percentage.csv]</parent-name>
+            <remote-alias>Country</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Lockbit3_Percentage.csv_F2147779C7244B898F52D7289DD63F0C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Percent</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Percent]</local-name>
+            <parent-name>[Lockbit3_Percentage.csv]</parent-name>
+            <remote-alias>Percent</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Lockbit3_Percentage.csv_F2147779C7244B898F52D7289DD63F0C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='string' name='[Country]' role='dimension' semantic-role='[Country].[ISO3166_2]' type='nominal' />
+      <_.fcp.ObjectModelTableType.true...column caption='Lockbit3_Percentage.csv' datatype='table' name='[__tableau_internal_object_id__].[Lockbit3_Percentage.csv_F2147779C7244B898F52D7289DD63F0C]' role='measure' type='quantitative' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;Singapore&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='Lockbit3_Percentage.csv' id='Lockbit3_Percentage.csv_F2147779C7244B898F52D7289DD63F0C'>
+            <properties context=''>
+              <relation connection='textscan.1qz4p3t14a1wep17qjisb03cw66x' name='Lockbit3_Percentage.csv' table='[Lockbit3_Percentage#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_SG' separator=','>
+                  <column datatype='integer' name='F1' ordinal='0' />
+                  <column datatype='string' name='Country' ordinal='1' />
+                  <column datatype='real' name='Percent' ordinal='2' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <mapsources>
+    <mapsource name='Tableau' />
+  </mapsources>
+  <worksheets>
+    <worksheet name='Sheet 1'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>Lockbit3.0 Victim Distribution&#10;</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Lockbit3_Percentage' name='federated.0gmt35z1ypxa6f11vnoaw0ojr3j8' />
+          </datasources>
+          <mapsources>
+            <mapsource name='Tableau' />
+          </mapsources>
+          <datasource-dependencies datasource='federated.0gmt35z1ypxa6f11vnoaw0ojr3j8'>
+            <column datatype='string' name='[Country]' role='dimension' semantic-role='[Country].[ISO3166_2]' type='nominal' />
+            <column datatype='real' name='[Percent]' role='measure' type='quantitative' />
+            <column-instance column='[Country]' derivation='None' name='[none:Country:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Percent]' derivation='Sum' name='[sum:Percent:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='mark'>
+            <encoding attr='size-bar' field='[federated.0gmt35z1ypxa6f11vnoaw0ojr3j8].[sum:Percent:qk]' field-type='quantitative' max-size='1' min-size='0.005' type='centersize' />
+          </style-rule>
+          <style-rule element='map'>
+            <format attr='washout' value='0.0' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='on' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <size column='[federated.0gmt35z1ypxa6f11vnoaw0ojr3j8].[sum:Percent:qk]' />
+              <color column='[federated.0gmt35z1ypxa6f11vnoaw0ojr3j8].[sum:Percent:qk]' />
+              <text column='[federated.0gmt35z1ypxa6f11vnoaw0ojr3j8].[none:Country:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-line-first' value='true' />
+                <format attr='mark-labels-line-last' value='true' />
+                <format attr='mark-labels-range-min' value='true' />
+                <format attr='mark-labels-range-max' value='true' />
+                <format attr='mark-labels-mode' value='all' />
+                <format attr='mark-labels-range-scope' value='pane' />
+                <format attr='mark-labels-range-field' value='' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{5AEFA5AC-B65E-4508-9460-07C00B16E662}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='30'>
+    <window class='worksheet' maximized='true' name='Sheet 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.0gmt35z1ypxa6f11vnoaw0ojr3j8].[sum:Percent:qk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.0gmt35z1ypxa6f11vnoaw0ojr3j8].[none:Country:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{CDCDA30B-8708-4F7F-A2E2-1A8BFA7054B3}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='384' name='Sheet 1' width='384'>
+      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
+      UKHhYeUVFCg+O6t5hYXq7+jQXDSqhtWr1XP4sOKxmBY3NSkZj6t9714VVlSosr5e2bm58jxP
+      40NDKl6w4IIzAM91lV9YqGQyqVgkIsfn0+zMjI7u3q2la9eqvLZWxw8dkuM4KqqsVFFFhdr3
+      7VN2bq4aVq/WxOio5peWavL0ac0vKVFkakqZOTnKzs291h/nJ3bFAQCAq+3jApBq3a2t6mlt
+      VUFpqW65+275fJ+9p+Yv+buAAMCqhsZGNTQ2pnqMT9VnL2kAgE+EAACAUQQAAIwiAABgFAEA
+      AKMIAAAYRQAAwCgCAABGEQAAMIoAAIBRBAAAjCIAAGAUAQAAowgAABhFAADAKAIAAEYRAAAw
+      igAAgFEEAACMIgAAYBQBAACjCAAAGEUAAMAoAgAARhEAADCKAACAUQQAAIwiAABgFAEAAKMI
+      AAAYRQAAwCgCAABGEQAAMIoAAIBRBAAAjCIAAGAUAQAAowgAABhFAADAKAIAAEYRAAAwigAA
+      gFEEAACMIgAAYBQBAACjCAAAGEUAAMAoAgAARhEAADCKAACAUQQAAIwiAABgFAEAAKMIAAAY
+      RQAAwCgCAABGEQAAMIoAAIBRBAAAjCIAAGAUAQAAowgAABhFAADAKAIAAEYRAAAwigAAgFEE
+      AACMIgAAYBQBAACjCAAAGEUAAMAoAgAARhEAADCKAACAUQQAAIwiAABgFAEAAKMIAAAYRQAA
+      wCgCAABGEQAAMIoAAIBRBAAAjCIAAGAUAQAAowgAABhFAADAKAIAAEYRAAAwigAAgFEEAACM
+      IgAAYBQBAACjCAAAGEUAAMAoAgAARhEAADCKAACAUQQAAIwiAABgFAEAAKMIAAAYRQAAwCgC
+      AABGEQAAMIoAAIBRBAAAjCIAAGAUAQAAowgAABhFAADAKAIAAEYRAAAwigAAgFEEAACMIgAA
+      YBQBAACjCAAAGEUAAMAoAgAARhEAADCKAACAUQQAAIzyp3oAAPD7HG2uXpjqMcwhAABSLul5
+      OhoaTfUY5nAJCACMIgAAYBQBAACjCAAAGEUAAKSt2ZmIojMzV217ZwaHlIjHFYtGlUwmr9p2
+      r1cEAEDa2v70M3rtp09ddjnPdbXn9Tcuu9z7O3cpOjOjvs4uRaenr8aI1zUeAwWQluZiMcnz
+      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
+    </thumbnail>
+  </thumbnails>
+</workbook>
