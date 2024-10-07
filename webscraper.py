@@ -106,6 +106,29 @@ def LockBit3():
         writer = csv.writer(f, delimiter=',')
         writer.writerows(data)
 
+def Lock():
+    data = []
+    with open('LockBit3.0.html', 'r') as f:
+        contents = f.read()
+        soup = BeautifulSoup(contents, 'html.parser')
+        boxes = soup.find_all('a', class_='post-block')
+        
+        for box in boxes:
+            victim_site = box.find('div', class_='post-title').text.strip()
+            published_date = box.find('div', class_='updated-post-date').text.strip()
+            published_date = published_date.replace('Updated:', '').replace(',','').strip()[:11]
+            group = 'LockBit3.0'
+            cell = [published_date, victim_site, group]
+            data.append(cell)
+
+
+    with open("LockBit3.0_new.csv", "w", newline='') as f:
+        writer = csv.writer(f, delimiter=',')
+        writer.writerows(data)
+
+
+Lock()
+
 #RansomHub()
 #Play()
 #LockBit3()
