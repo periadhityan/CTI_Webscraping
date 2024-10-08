@@ -1,0 +1,267 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20242.24.0910.0334                               -->
+<workbook original-version='18.1' source-build='2024.2.3 (20242.24.0910.0334)' source-platform='mac' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.AnimationOnByDefault.true...AnimationOnByDefault />
+    <MapboxVectorStylesAndLayers />
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <_.fcp.AnimationOnByDefault.false...style>
+    <_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule element='animation'>
+      <_.fcp.AnimationOnByDefault.false...format attr='animation-on' value='ao-on' />
+    </_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule>
+  </_.fcp.AnimationOnByDefault.false...style>
+  <datasources>
+    <datasource caption='LockBit3.0_Countries' inline='true' name='federated.0bmdrwu1djp6yb12ce1ht0ne4kx9' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='LockBit3.0_Countries' name='textscan.0z5otvo1mfq8qk1bw49s516c82tw'>
+            <connection class='textscan' directory='/Users/periadhityan/Desktop/webscraping/CSV_files/Final_Distribution_Files' filename='LockBit3.0_Countries.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.0z5otvo1mfq8qk1bw49s516c82tw' name='LockBit3.0_Countries.csv' table='[LockBit3.0_Countries#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_SG' separator=','>
+            <column datatype='integer' name='F1' ordinal='0' />
+            <column datatype='string' name='Country' ordinal='1' />
+            <column datatype='real' name='Percent' ordinal='2' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='textscan.0z5otvo1mfq8qk1bw49s516c82tw' name='LockBit3.0_Countries.csv' table='[LockBit3.0_Countries#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_SG' separator=','>
+            <column datatype='integer' name='F1' ordinal='0' />
+            <column datatype='string' name='Country' ordinal='1' />
+            <column datatype='real' name='Percent' ordinal='2' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[LockBit3.0_Countries.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_GB&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_SG&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F1</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[F1]</local-name>
+            <parent-name>[LockBit3.0_Countries.csv]</parent-name>
+            <remote-alias>F1</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[LockBit3.0_Countries.csv_3B953ED1546E450D85B3877AFB2F4AC2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Country</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Country]</local-name>
+            <parent-name>[LockBit3.0_Countries.csv]</parent-name>
+            <remote-alias>Country</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[LockBit3.0_Countries.csv_3B953ED1546E450D85B3877AFB2F4AC2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Percent</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Percent]</local-name>
+            <parent-name>[LockBit3.0_Countries.csv]</parent-name>
+            <remote-alias>Percent</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[LockBit3.0_Countries.csv_3B953ED1546E450D85B3877AFB2F4AC2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='string' name='[Country]' role='dimension' semantic-role='[Country].[ISO3166_2]' type='nominal' />
+      <_.fcp.ObjectModelTableType.true...column caption='LockBit3.0_Countries.csv' datatype='table' name='[__tableau_internal_object_id__].[LockBit3.0_Countries.csv_3B953ED1546E450D85B3877AFB2F4AC2]' role='measure' type='quantitative' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;Singapore&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='LockBit3.0_Countries.csv' id='LockBit3.0_Countries.csv_3B953ED1546E450D85B3877AFB2F4AC2'>
+            <properties context=''>
+              <relation connection='textscan.0z5otvo1mfq8qk1bw49s516c82tw' name='LockBit3.0_Countries.csv' table='[LockBit3.0_Countries#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_SG' separator=','>
+                  <column datatype='integer' name='F1' ordinal='0' />
+                  <column datatype='string' name='Country' ordinal='1' />
+                  <column datatype='real' name='Percent' ordinal='2' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <mapsources>
+    <mapsource name='Tableau' />
+  </mapsources>
+  <worksheets>
+    <worksheet name='LockBit3.0 Countries Distribution'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='LockBit3.0_Countries' name='federated.0bmdrwu1djp6yb12ce1ht0ne4kx9' />
+          </datasources>
+          <mapsources>
+            <mapsource name='Tableau' />
+          </mapsources>
+          <datasource-dependencies datasource='federated.0bmdrwu1djp6yb12ce1ht0ne4kx9'>
+            <column datatype='string' name='[Country]' role='dimension' semantic-role='[Country].[ISO3166_2]' type='nominal' />
+            <column datatype='real' name='[Percent]' role='measure' type='quantitative' />
+            <column-instance column='[Country]' derivation='None' name='[none:Country:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Percent]' derivation='Sum' name='[sum:Percent:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='map'>
+            <format attr='washout' value='0.0' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Circle' />
+            <encodings>
+              <size column='[federated.0bmdrwu1djp6yb12ce1ht0ne4kx9].[sum:Percent:qk]' />
+              <text column='[federated.0bmdrwu1djp6yb12ce1ht0ne4kx9].[none:Country:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-line-first' value='true' />
+                <format attr='mark-labels-line-last' value='true' />
+                <format attr='mark-labels-range-min' value='true' />
+                <format attr='mark-labels-range-max' value='true' />
+                <format attr='mark-labels-mode' value='all' />
+                <format attr='mark-labels-range-scope' value='pane' />
+                <format attr='mark-labels-range-field' value='' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{4E35EE39-1FEE-4F75-AEE5-66C8A00A51B9}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='30'>
+    <window class='worksheet' maximized='true' name='LockBit3.0 Countries Distribution'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.0bmdrwu1djp6yb12ce1ht0ne4kx9].[none:Country:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{1022A5DD-C30B-4225-87F2-639C8C105C87}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='LockBit3.0 Countries Distribution' width='192'>
+      iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAACXBIWXMAAA7DAAAOwwHHb6hk
+      AAAJYElEQVR4nO3dTXAT5x3H8d/qxZIlSxayDX4DigOUZJqmCZDMtNPpIWlnOtPccu2tPfXQ
+      ae89dOgtM03bSae9ZFJCZ+ikCcl0WhKnpMFuQh0wLzZgmxe/CLBs2ZJfJFnvu9uDQdjozQ7g
+      Rc//9znhfTTDM0ZftLva3UczTdMEkVA2qydAZCUGQKIxABKNAZBoDIBEYwAkGgMg0RgAicYA
+      SDQGQKIxABKNAZBoDIBEYwAkGgMg0RgAicYASDQGQKIxABKNAZBoDIBEYwAkGgMg0RgAicYA
+      SDQGQKIxABKNAZBoDIBEYwAkGgMg0RgAicYASDQGQKIxABKNAZBoDIBEYwAkGgMg0RgAicYA
+      SDQGQKIxABKNAZBoDIBEYwAkGgMg0RgAicYASDQGQKIxABKNAZBoDIBEYwAkGgMg0RgAicYA
+      SDQGQKIxABKNAZBoDIBEYwAkGgMg0RgAicYASDQGQKIxABKNAZBoDIBEYwAkGgMg0RgAicYA
+      SDQGQKIxABKNAZBoDIBEYwAkVjKdYwAk1+BYmAGQTKZpon8oxABIpsVEBsPjEQZAMp0dnUZe
+      NxgAyWOaJs5cvQ2AZ4FIoPhKFmOhKAAGQAINjUeQzesAGAAJdG50uvhnBkCi5PI6hifmij8z
+      ABJlcnYJS8lM8WcGQKIM3Zhd9zMDIDFM08TwRGTdNgZAYqRzBdycXli3jQGQGJPhRaSzhXXb
+      GACJMXr3y6+1GACJMXaLAZBQBd3A1MxSyXYGQCIsxNOYX06VbGcAJMLUbOn//gADICEmwotl
+      tzMAEiEU4ScACWUYJu7MJ8qOMQBSXi6vI7KQLDvGAEh5sUSqeAPMgxgAKS8cLb/7AzAAEmBu
+      caXiGAMg5c1W2P8HGAAJEF1OVxxjAKS8hXjpJRD3MABSmq4bWEpmK44zAFJawTCwks5VHGcA
+      pDRdN5FgACRVIlV59wdgAKS4lUy+6jgDIKVl84Wq4wyAlJZIVd7/BxgAKc6sMc4ASGlJHgST
+      ZIZR/TOAAZBoDIBEYwAkGgMg0RgAicYASGl+r6vqOAMgtWla1WEGQEprcjurjjMAUlqD0151
+      nAGQ0nweHgOQYD5PQ9VxBkBKs9ts8LgcFccZACnNYbdV3Q1iAKQ0u02r+l0AAyClaZqGoL+x
+      4jgDIOW1NnsqjlU+OiB6SLm8jnQuj+Sa+3LdDQ64GxzwNlY/O/Mo7djmrTjGAOihLa9kcP1W
+      DJOzS7gVWcZMLInIQhLpXB6GCZjm/buyNGjQNMDpsKPF34j2liZ0tfrR0xHA/p0t6Gj1wVbj
+      8oXN2s4A6FHSDQNjoSgGr4Vx/voMbs/Fa956eI8JEzABPVfAdDSB6WgC56/NAFi9bCfQ5MY3
+      e3bg8NOdOLi/E54alzJsREfQV3FMM9fmSVTFdDSOU4MT6LsUQixe+ZHjj4rLacehA514+YU9
+      eH5fB2y2r/bJkMrm8ePffICCbpSMMQCqaXg8gg8/H8OF6zOw6t3S2erDq9/ej5cP9sBV4/qe
+      B+mGgZ+9cRIzsdKFMhgAVTQyNY9jvUMYCUWtnkpRS3MjXvveM/jB4afgsG/8JOaRo/0YvBYu
+      2c4AqER0OYW3T17EF5dv13ywlFW623z4yY8O4vl97Rt6/Tu9Q3i/b7RkOwOgIsM00Xv2Jt75
+      eBipbPWHyj4JNADffW43fvrqC/DXuOrz88u38PrxMyXbeRaIAABLiQz+cOLL4hmZemAC6B8K
+      4erkHH7+2kt4bm/lT4M97YGy2/lNMGEsFMUv/9hbV2/+tWLxNH79lz78/bOrqLRD0xbwItDk
+      LtnOAIQ7fXEKv3rrsy05rfk46YaJv/77Mn777gByZVaFdzps2LWjuWQ7AxDsRP8ofvfeAHKF
+      0jdMveofCuHI0T6kHlgYQ9M0PL2rteT1DECo459ewdGPhyw7r/84DU/MlY3gwG4GQADe7xvF
+      3z69YvU0HquRUBRHjvYhveZs1r7uIJyO9W95BiDMfy5M4tgnQ1ZPY0uMhKJ4490B6HcvgWhq
+      bMDXHjgbxAAEGZmax58+HFRyt6eSL0en8fZHlwCsHgc827N93TgDEGIhnsbrx88odcC7Uf/8
+      33WcvjgFAPjWA98VMAABdMPA798bwEKivk91flWmCfz5H4OYno9j/86WdU+JYAACfDRwE5du
+      RqyehqXS2QLe/OAcnA47vrHn/m4QA1DcTCyBY58MWz2NJ8LI1DxODtzAwa93FrcxAIWZpom3
+      /nURmVz1xaIlOX7qCvZ0BIo31zAAhV26OVv2GnjJUtk8es+OY393EAADUJZhmjh+6oqoU54b
+      dfrSFNrv3ifMABR14doMrt2OWT2NJ5JumJiOxmGzaQxARaZp4kR/6d1PdN9EeBHNXhcDUNF4
+      eBGjT9B9vE8i3TCRzhYYgIpODU7A4M5/TdkcA1BOJlfAF1duWz2NumCCB8HKuTweQXwla/U0
+      6gYDUMw5nvffFAagEMM0cfHGrNXTqCsMQCGzsSSiyymrp1FXGIBCrt+JbfgpzbSKAShkIrxo
+      9RTqDgNQSGh22eop1B0GoJBwNG71FOoOA1BENldAfM1aXLQxDEARiXSu7AooVB0DUEQqky8+
+      /4Y2jgEooqAblixm4XU74b27kJ3DboPH7cTaRR7vrdLudTvR7HXB4ypd9K7aSu6PG9cHoIfS
+      1eYHAGzzubGUzCDgdWMxmUFHsAmxeArtQR9OnZ/A9w8/hf8OhbC7PQCP24mFeBp+jwvJdA4+
+      TwPyBQOZXAHtQS/yuoGBq3egb8F3GgyAHsqObV4sr2QRXU7B73EhvpKF3aahNeCBbhgo6KsP
+      4roVWUbQ34hmrwtTs0vobvPD6bAD2uolHE6HDQ67E3NLKWhYXUdY34Kb+blEkiImwov4xZu9
+      W/732jSt5N6De7tApll+HACCvkYEfG5MzixWfd3jxk8ARXhcTtht2pbsNqxV7k27dlOlN/VC
+      Ir3uSXVW3cDDg2BFeNxO2G3859ws/sYU0dTYsOkFpIkBKMNm09AW8Fg9jbrDABTSvd1v9RTq
+      DgNQSE9n0Oop1B0GoJC9XQxgsxiAQno6A3A38EB4MxiAQrzuBuztarF6GnWFASjm0IHO2i+i
+      IgagmBcPdMJu02q/kAAwAOV0tfmxt5sHwxvhsPPx6Ep65WCP1VOoCwd2tTEAFX3n2Z3we6y7
+      yaRe/PClvQxARV53A145xE+BatqDTXjxmS78H6yr8WQYY+O4AAAAAElFTkSuQmCC
+    </thumbnail>
+  </thumbnails>
+</workbook>
