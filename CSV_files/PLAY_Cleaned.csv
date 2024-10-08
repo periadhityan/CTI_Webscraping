@@ -1,0 +1,255 @@
+,Date,Victim,Industry,Country,Ransomware Group
+0,2024-09-23,wwweurobulkgr,Maritime,Greece,PLAY
+1,2024-09-23,wwwbroadgraincom,Agriculture,Canada,PLAY
+2,2024-09-21,wwwtbmdfcom,Healthcare,United States,PLAY
+3,2024-09-21,wwwpaccoastcom,Transportation,United States,PLAY
+4,2024-09-21,wwwomegaindustriescom,Oil and Gas,United States,PLAY
+5,2024-09-21,wwwnobleenvirocom,Environmental Services,United States,PLAY
+6,2024-09-21,wwwmessecdk,Healthcare,Denmark,PLAY
+7,2024-09-21,wwwjacksonpapernet,Healthcare,United States,PLAY
+8,2024-09-19,wwwplaistedcompaniescom,Construction,United States,PLAY
+9,2024-09-16,wwwmultidatalu,Healthcare,Luxembourg,PLAY
+10,2024-09-16,wwwhariripontarinicom,Healthcare,Canada,PLAY
+11,2024-09-16,wwwrspca,Charity/Non-profit,Canada,PLAY
+12,2024-05-30,wwwntvca,Television,Canada,PLAY
+13,2024-05-30,wwwwalsercom,Manufacturing,United States,PLAY
+14,2024-05-30,wwwfplfoodcom,Food Processing,United States,PLAY
+15,2024-05-29,wwwcreditcentralllccom,Finance,United States,PLAY
+16,2024-05-22,wwwlevinportercom,Law Firm,United States,PLAY
+17,2024-05-22,wwwsemicorecom,Semiconductor Manufacturing,United States,PLAY
+18,2024-05-22,wwwvisalightingcom,Lighting,United States,PLAY
+19,2024-05-22,wwwardenbrookcom,Healthcare,United States,PLAY
+20,2024-05-22,wwwrdiglobalhospitalitycom,Hospitality,United States,PLAY
+21,2024-05-22,wwwadncom,Advertising,United States,PLAY
+22,2024-05-22,wwwexperistgcom,Financial Services,United States,PLAY
+23,2024-09-29,wwwgarveyscarpetcom,Retail,United States,PLAY
+24,2024-09-29,wwwclassicbusinesscom,Business Services,United States,PLAY
+25,2024-09-29,wwwrubberresourcescom,Rubber/Plastics Manufacturing,United States,PLAY
+26,2024-09-29,infracomse,Telecommunications,Sweden,PLAY
+27,2024-09-29,wwwgssolutionscom,Consulting,United States,PLAY
+28,2024-09-29,wwwandantexcom,Manufacturing,United States,PLAY
+29,2024-09-29,wwwgo4bcom,Logistics,United States,PLAY
+30,2024-09-29,wwwreuttergroupcom,Logistics,Germany,PLAY
+31,2024-09-29,wwwperformancefoodcenterscom,Food and Beverage,United States,PLAY
+32,2024-09-29,wwwinteriorworxcommercialflooringcom,Construction/Contracting,United States,PLAY
+33,2024-09-29,wwwaffirmagencycom,Marketing,United States,PLAY
+34,2024-09-26,wwwmilehicompaniescom,Mile High Companies appears to be in the **Logistics/Transportation** industry.,United States,PLAY
+35,2024-09-23,wwweurobulkgr,Shipping/Logistics,Greece,PLAY
+36,2024-09-23,wwwbroadgraincom,Agriculture,Canada,PLAY
+37,2024-09-21,wwwtbmdfcom,Healthcare,United States,PLAY
+38,2024-09-21,wwwpaccoastcom,Logistics,United States,PLAY
+39,2024-09-21,wwwomegaindustriescom,Manufacturing,United States,PLAY
+40,2024-09-21,wwwnobleenvirocom,Environmental Services,United States,PLAY
+41,2024-09-21,wwwmessecdk,Healthcare,Denmark,PLAY
+42,2024-09-21,wwwjacksonpapernet,Healthcare,United States,PLAY
+43,2024-09-19,wwwplaistedcompaniescom,Manufacturing,United States,PLAY
+44,2024-09-16,wwwmultidatalu,Healthcare,Luxembourg,PLAY
+45,2024-09-16,wwwhariripontarinicom,Manufacturing,Canada,PLAY
+46,2024-09-16,wwwrspca,Non-profit/Charity,Canada,PLAY
+47,2024-09-16,wwwpipusacom,Manufacturing,United States,PLAY
+48,2024-09-16,wwwbaskervillcom,Healthcare,United States,PLAY
+49,2024-09-13,wwwcreativeplaythingscom,Toys and Games,United States,PLAY
+50,2024-09-13,wwwdminjcom,Healthcare,United States,PLAY
+51,2024-09-13,wwwtruefamilyenterprisescom,Non-profit/Charity,United States,PLAY
+52,2024-09-10,wwwsecoolercom,Healthcare,United States,PLAY
+53,2024-09-10,wwwswartzelectriccom,Electrical,United States,PLAY
+54,2024-09-10,wwwbelairbayclubcom,Hospitality,United States,PLAY
+55,2024-09-10,wwwelginseparationsolutionscom,Oil and Gas,United States,PLAY
+56,2024-09-10,wwwpwadcnet,Government,United States,PLAY
+57,2024-09-10,wwwweldcobealescom,Healthcare,Canada,PLAY
+58,2024-06-12,wwwkintercom,Software/Technology,United States,PLAY
+59,2024-06-12,wwwcorbinturfcom,Landscaping/Environmental Services,United States,PLAY
+60,2024-06-12,wwwaircleaningspecialistscom,Healthcare,United States,PLAY
+61,2024-06-12,wwwdtindustrialflooringcom,Construction,United States,PLAY
+62,2024-06-12,wwwcitybuilderscom,Architecture/Engineering,United States,PLAY
+63,2024-06-12,wwwrrlawca,Legal Services,Canada,PLAY
+64,2024-06-12,wwwaldenhovennl,Maritime,Netherlands,PLAY
+65,2024-06-12,wwwamarillagascom,Healthcare,Argentina,PLAY
+66,2024-06-12,wwwmonsterasmetallse,Manufacturing,Sweden,PLAY
+67,2024-06-12,wwwmetooshoescom,Retail,United States,PLAY
+68,2024-06-12,wwwcelluphonecom,Telecommunications,United States,PLAY
+69,2024-06-12,wwwwwpch,Healthcare,Switzerland,PLAY
+70,2024-01-19,wwwtpgarchitecturecom,Architecture,United States,PLAY
+71,2024-01-06,wwwteleverdecom,Healthcare,United States,PLAY
+72,2023-12-21,wwwquiltyca,Accounting,Canada,PLAY
+73,2023-12-20,wwwdigipackagingcom,Packaging,United States,PLAY
+74,2023-12-20,wwwconceptdatadk,Healthcare,Denmark,PLAY
+75,2023-12-20,wwwjonrichardcom,Education,United Kingdom,PLAY
+76,2023-12-18,wwwcmpaulacom,Healthcare,United States,PLAY
+77,2023-12-18,wwwwaldnerscom,Food Processing,United States,PLAY
+78,2023-12-18,wwwschoepedisplaycom,Manufacturing,Germany,PLAY
+79,2024-07-04,wwwprairieathleticcom,Healthcare,United States,PLAY
+80,2024-07-04,wwwinnerspeccom,Automotive,United States,PLAY
+81,2024-07-04,wwwindaorg,Healthcare,United States,PLAY
+82,2024-07-04,wwwtexasrecyclingcom,Waste and Recycling,United States,PLAY
+83,2024-07-04,wwwelyriafoundrycom,Manufacturing,United States,PLAY
+84,2024-06-23,wwwcustomconcretecom,Construction,United States,PLAY
+85,2024-06-23,wwwpromotionholdingscom,Promotions Holdings is based in the Advertising industry.,United States,PLAY
+86,2024-06-23,wwwrrcaaccountscom,Accounting,United States,PLAY
+87,2024-06-23,wwwbungersteelcom,Manufacturing,United States,PLAY
+88,2024-06-23,wwwinquesttechnologiescom,Healthcare,United Kingdom,PLAY
+89,2024-06-23,wwwhedrickbrotherscom,Agriculture,United States,PLAY
+90,2024-06-23,wwwbelletirecom,Retail,United States,PLAY
+91,2024-09-10,wwwevansdistcom,Logistics,United States,PLAY
+92,2024-09-04,wwwseiruscom,Healthcare,United States,PLAY
+93,2024-09-04,wwwcraingroupcom,Healthcare,United States,PLAY
+94,2024-09-04,wwwbakersfieldcom,Media,United States,PLAY
+95,2024-09-04,wwwfarmersricecom,Agriculture,United States,PLAY
+96,2024-08-28,wwwclabotsbe,Manufacturing,Belgium,PLAY
+97,2024-08-28,wwwomicrongranitenet,Construction,United States,PLAY
+98,2024-08-28,wwwuniversalpurecom,Chemicals,United States,PLAY
+99,2024-08-28,wwwabcpartsnet,Automotive,United States,PLAY
+100,2024-08-28,wwwgdbinternationalcom,Engineering/Consulting,United States,PLAY
+101,2024-08-28,wwwseadeocom,Maritime,United States,PLAY
+102,2024-03-11,wwwfashionsukcom,Fashion,United Kingdom,PLAY
+103,2024-03-11,wwwgrassmidtransportinccom,Transportation,United States,PLAY
+104,2024-03-11,wwwimagepointecom,Graphics/Design,United States,PLAY
+105,2024-03-11,wwwrudaautocom,Automotive,United States,PLAY
+106,2024-03-11,wwwzsbca,Healthcare,Canada,PLAY
+107,2024-03-11,wwwbechtoldfensterde,Window and Door Manufacturer,Germany,PLAY
+108,2024-03-11,wwwschokinagcom,Food Processing,Germany,PLAY
+109,2024-03-11,wwwqeocom,Healthcare,United States,PLAY
+110,2024-03-06,wwwmainvestcom,Finance,United States,PLAY
+111,2024-03-06,wwwcontinentalaero,Aerospace,United States,PLAY
+112,2024-03-01,wwwfbiconstructioncom,Construction,United States,PLAY
+113,2024-03-01,wwwkoolairinccom,"HVAC (Heating, Ventilation, and Air Conditioning)",Canada,PLAY
+114,2024-08-27,wwwprecominccom,Construction,United States,PLAY
+115,2024-08-27,wwwmicrochipcom,Semiconductors/Electronics,United States,PLAY
+116,2024-08-21,wwwpasolutionscom,Professional Services,United States,PLAY
+117,2024-08-21,wwwrcgllccom,Healthcare,United States,PLAY
+118,2024-08-21,wwwarmourcoatingscom,Coatings/Manufacturing,United States,PLAY
+119,2024-08-21,wwwthesmsgroupcom,Healthcare,United States,PLAY
+120,2024-08-13,wwweriemeatscom,Food Processing,Canada,PLAY
+121,2024-08-13,wwwmycinematechcom,Entertainment,United States,PLAY
+122,2024-08-13,wwwadinareytercom,Healthcare,United States,PLAY
+123,2024-08-13,wwwaithermalcom,Manufacturing,United States,PLAY
+124,2024-08-13,wwwparkerdevcocom,Construction,United States,PLAY
+125,2024-08-13,wwwmillcreeklumbercom,Lumber/Yard Supply,United States,PLAY
+126,2024-03-27,wwwalberlawcom,Law Firm,United States,PLAY
+127,2024-03-27,wwwfestspielhausde,Cultural Institution,Germany,PLAY
+128,2024-03-27,wwwweldpluscom,Healthcare,United States,PLAY
+129,2024-03-27,wwwjmthompsoncom,Engineering/Architecture,United States,PLAY
+130,2024-03-27,,Healthcare,Poland,PLAY
+131,2024-03-27,wwwpavilionconstructioncom,Construction,United States,PLAY
+132,2024-03-27,wwwboingographicscom,Media/Entertainment,United States,PLAY
+133,2024-03-11,wwwpremiertechnologynet,Healthcare,United States,PLAY
+134,2024-03-11,wwwsreecom,Energy,United States,PLAY
+135,2024-03-11,wwwbridgerinscom,Insurance,United States,PLAY
+136,2024-03-11,wwwbitecsmicom,Manufacturing,United States,PLAY
+137,2024-03-11,wwwqigroupca,Quality Assurance (QA),Canada,PLAY
+138,2024-06-23,wwwharveyconstcom,Construction,United States,PLAY
+139,2024-06-23,wwwtpicorpcom,Transportation,United States,PLAY
+140,2024-06-13,wwwsrfirmscom,Law Firms,United States,PLAY
+141,2024-06-13,wwwchromacolorscom,Graphic Design/Printing,United States,PLAY
+142,2024-06-13,wwwpeteatlantacom,Healthcare,United States,PLAY
+143,2024-06-13,wwwglitcom,Logistics,United States,PLAY
+144,2024-06-13,wwweaglematerialscom,Construction,United States,PLAY
+145,2024-06-13,www3glca,Law Firms/Professional Services,Canada,PLAY
+146,2024-06-13,wwwfreightbillauditorcom,Logistics/Transportation,United States,PLAY
+147,2024-06-13,wwwwestmechhvaccom,"HVAC (Heating, Ventilation, and Air Conditioning)",United States,PLAY
+148,2024-06-13,wwwseagulfcom,Energy,Canada,PLAY
+149,2024-03-01,wwwskylandgraincom,Agriculture,United States,PLAY
+150,2024-02-29,wwwgilmoreassoccom,Healthcare,United States,PLAY
+151,2024-02-15,wwwmeerservicesnl,Maritime/Shipping,Netherlands,PLAY
+152,2024-02-15,wwwonclusivecom,Law Firm,United States,PLAY
+153,2024-02-15,wwwmechrepscom,Manufacturing,United States,PLAY
+154,2024-02-15,wwwnorfoxchemcom,Chemicals,United States,PLAY
+155,2024-02-15,wwwvonhagennet,Agriculture,Germany,PLAY
+156,2024-02-15,wwwlddaviscom,Manufacturing,United States,PLAY
+157,2024-02-05,wwwleadersstaffingcom,Staffing/HR,United States,PLAY
+158,2024-02-05,wwwdclorg,Defense Contracting,United States,PLAY
+159,2024-03-01,wwwskylandgraincom,Agriculture,United States,PLAY
+160,2024-02-29,wwwgilmoreassoccom,Consulting,United States,PLAY
+161,2024-02-15,wwwmeerservicesnl,Manufacturing,Netherlands,PLAY
+162,2024-02-15,wwwonclusivecom,Healthcare,United States,PLAY
+163,2024-02-15,wwwmechrepscom,Mechanical,United States,PLAY
+164,2024-02-15,wwwnorfoxchemcom,Chemical,United States,PLAY
+165,2024-02-15,wwwvonhagennet,Transportation,Germany,PLAY
+166,2024-02-15,wwwlddaviscom,Construction,United States,PLAY
+167,2024-02-05,wwwleadersstaffingcom,Staffing/Recruiting,United States,PLAY
+168,2024-02-05,wwwdclorg,Defense Contractor,United States,PLAY
+169,2024-04-11,wwwnewwpkgcom,Healthcare,United States,PLAY
+170,2024-04-11,wwwaccessintelcom,Market Research/Consulting,United States,PLAY
+171,2024-04-11,wwwtheatrixxcom,Healthcare,Canada,PLAY
+172,2024-04-11,wwwmoldtechrubbercom,Manufacturing,United States,PLAY
+173,2024-04-10,wwwfeldsteinandstewartcom,Accounting,United States,PLAY
+174,2024-04-04,wwweverbritecom,Healthcare,United States,PLAY
+175,2024-04-04,wwwguysfloorcom,Retailer,United States,PLAY
+176,2024-04-04,wwwsitnsleepcom,Healthcare,United States,PLAY
+177,2024-03-27,wwwlambdaenergyllccom,Energy,United States,PLAY
+178,2024-03-27,wwwlsrlcom,Logistics,United States,PLAY
+179,2024-03-27,wwwqualityenclosurescom,Manufacturing,United States,PLAY
+180,2024-03-27,wwwhartzcom,Real Estate,United States,PLAY
+181,2024-08-12,wwwgridsmecom,Energy,United States,PLAY
+182,2024-08-11,wwwtelpro1com,Telecommunications,United States,PLAY
+183,2024-08-10,wwwnilorncom,Healthcare,Sweden,PLAY
+184,2024-08-10,crediblegroupcom,Healthcare,Canada,PLAY
+185,2024-08-06,wwwkinetxcom,Healthcare,United States,PLAY
+186,2024-08-06,wwwgranitdesigncom,Design/Architecture,Canada,PLAY
+187,2024-08-06,wwwtrueblueenvironmentalcom,Environmental Services,United States,PLAY
+188,2024-08-06,wwwalternateenergyhawaiicom,Energy/Utilities,United States,PLAY
+189,2024-07-25,wwwofficeopscom,Healthcare,United States,PLAY
+190,2024-07-25,wwwodysseyfitnesscentercom,Health and wellness,United States,PLAY
+191,2024-07-25,wwwgendroncorpcom,Manufacturing,United States,PLAY
+192,2024-04-26,wwwyalemortgagecom,Finance,United States,PLAY
+193,2024-04-26,wwwprecisionfluidcontrolscom,Manufacturing,United States,PLAY
+194,2024-04-26,wwworiginalherkimercheesecom,Agriculture,United States,PLAY
+195,2024-04-26,wwwaxipcom,Communications Equipment,United States,PLAY
+196,2024-04-19,wwweaminccom,Healthcare,United States,PLAY
+197,2024-04-19,wwwpaconventioncom,Healthcare,United States,PLAY
+198,2024-04-19,wwwsisautomatiseringnl,Automotive,Netherlands,PLAY
+199,2024-04-19,wwwalltruckbodiescomau,Manufacturing,Australia,PLAY
+200,2024-04-19,wwwjeowenscom,Manufacturing,United States,PLAY
+201,2024-04-12,wwwheritagecooperativecom,Financial Services,United States,PLAY
+202,2024-04-11,wwwmbtwcom,Banking,Canada,PLAY
+203,2024-04-11,wwwlsnetworksnet,Telecommunications,United States,PLAY
+204,2024-07-25,wwwgwextrusionscom,Manufacturing,United States,PLAY
+205,2024-07-25,wwwwilliamsconstcom,Construction,United States,PLAY
+206,2024-07-25,wwwcompactmouldcom,Manufacturing,Canada,PLAY
+207,2024-07-25,wwwitstaffingcom,IT Staffing,United States,PLAY
+208,2024-07-17,wwwmipscom,Manufacturing,United States,PLAY
+209,2024-07-17,wwwhaydenpowercom,Energy/Utilities,United States,PLAY
+210,2024-07-17,wwwcongoleumcom,Construction,United States,PLAY
+211,2024-07-11,wwwtpicorpcom,Transportation,United States,PLAY
+212,2024-07-11,www21stcenturyenergygroupcom,Energy/Utilities,United States,PLAY
+213,2024-07-11,wwwtexasecorg,Government,United States,PLAY
+214,2024-07-11,wwwhypericecom,Healthcare/Wellness,United States,PLAY
+215,2024-07-04,wwwfareriassociatescom,Consulting,United States,PLAY
+216,2024-03-01,wwwinfluencecommunicationcom,Communications,Canada,PLAY
+217,2024-03-01,wwwcoastalcarcom,Automotive,United States,PLAY
+218,2024-03-01,wwwmarketoncom,Healthcare,United States,PLAY
+219,2024-03-01,wwwcompactmouldcom,Manufacturing,Canada,PLAY
+220,2024-03-01,wwwnesmcocom,Healthcare,United States,PLAY
+221,2024-03-01,wwwredrivertitlecom,Finance,United States,PLAY
+222,2024-03-01,wwwhedlundspapperse,Printing/Publishing,Sweden,PLAY
+223,2024-03-01,wwwwinonapatterncom,Healthcare,United States,PLAY
+224,2024-03-01,wwwtransplusio,Transportation,Canada,PLAY
+225,2024-03-01,wwwpowillcom,"Powell Communications
+
+Industry: Telecommunications",United States,PLAY
+226,2024-03-01,wwwaawirelessus,Telecommunications,United States,PLAY
+227,2024-03-01,wwwamericannutscom,Food Processing,United States,PLAY
+228,2024-05-07,wwwraymonhvaccom,"HVAC (Heating, Ventilation, and Air Conditioning)",United States,PLAY
+229,2024-05-07,wwwsomervilleinccom,Energy/Utilities,United States,PLAY
+230,2024-05-07,wwwmauritzonnet,Financial Services,United States,PLAY
+231,2024-05-07,wwwhpsllcus,Healthcare,United States,PLAY
+232,2024-05-07,wwwcentralcivilcom,Government/Defense,United States,PLAY
+233,2024-05-03,wwwstainlessfoundrycom,Manufacturing,United States,PLAY
+234,2024-04-30,wwwprofileproductscom,Manufacturing,United States,PLAY
+235,2024-04-30,wwwnetabncom,Telecommunications,United States,PLAY
+236,2024-04-30,wwwcanatalnet,Shipping and Logistics,United States,PLAY
+237,2024-04-26,wwwnewhudsonfacadescom,Manufacturing,United States,PLAY
+238,2024-04-26,wwwtoolmartscom,Retail,United States,PLAY
+239,2024-04-26,wwwlbdcstatenyus,Local Government,United States,PLAY
+240,2024-05-22,wwwfreemancompanycom,Manufacturing,United States,PLAY
+241,2024-05-22,wwwaspiretaxcom,Taxation/Accounting,United States,PLAY
+242,2024-05-22,wwwsamorzadgovpl,Government,Poland,PLAY
+243,2024-05-22,wwwtristategccom,Government,United States,PLAY
+244,2024-05-22,wwwryderscottcom,Transportation,United States,PLAY
+245,2024-05-10,wwwbadgertagcom,Logistics,United States,PLAY
+246,2024-05-10,wwwnkpartscom,Automotive,United States,PLAY
+247,2024-05-10,wwwlivehelpnownet,Healthcare,United States,PLAY
+248,2024-05-07,wwwsentrydatamgtcom,Data Management,United States,PLAY
+249,2024-05-07,wwwkcscoutnet,Scouting/Guiding,United States,PLAY
+250,2024-05-07,wwwuticamackcom,Healthcare,United States,PLAY
+251,2024-05-07,wwwapbservicescom,Aerospace,United States,PLAY

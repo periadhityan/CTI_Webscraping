@@ -26,7 +26,7 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='LockBit3.0_Countries' name='textscan.0z5otvo1mfq8qk1bw49s516c82tw'>
-            <connection class='textscan' directory='/Users/periadhityan/Desktop/webscraping/CSV_files/Final_Distribution_Files' filename='LockBit3.0_Countries.csv' password='' server='' />
+            <connection class='textscan' directory='/Users/periadhityan/Desktop/webscraping/CSV_files/Countries' filename='LockBit3.0_Countries.csv' password='' server='' />
           </named-connection>
         </named-connections>
         <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.0z5otvo1mfq8qk1bw49s516c82tw' name='LockBit3.0_Countries.csv' table='[LockBit3.0_Countries#csv]' type='table'>

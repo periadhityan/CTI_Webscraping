@@ -1,0 +1,981 @@
+,Date,Victim,Industry,Country,Ransomware Group
+0,2024-09-23,wwweurobulkgr,Maritime,Greece,PLAY
+1,2024-09-23,wwwbroadgraincom,Agriculture,Canada,PLAY
+2,2024-09-21,wwwtbmdfcom,Healthcare,United States,PLAY
+3,2024-09-21,wwwpaccoastcom,Transportation,United States,PLAY
+4,2024-09-21,wwwomegaindustriescom,Oil and Gas,United States,PLAY
+5,2024-09-21,wwwnobleenvirocom,Environmental Services,United States,PLAY
+6,2024-09-21,wwwmessecdk,Healthcare,Denmark,PLAY
+7,2024-09-21,wwwjacksonpapernet,Healthcare,United States,PLAY
+8,2024-09-19,wwwplaistedcompaniescom,Construction,United States,PLAY
+9,2024-09-16,wwwmultidatalu,Healthcare,Luxembourg,PLAY
+10,2024-09-16,wwwhariripontarinicom,Healthcare,Canada,PLAY
+11,2024-09-16,wwwrspca,Charity/Non-profit,Canada,PLAY
+12,2024-05-30,wwwntvca,Television,Canada,PLAY
+13,2024-05-30,wwwwalsercom,Manufacturing,United States,PLAY
+14,2024-05-30,wwwfplfoodcom,Food Processing,United States,PLAY
+15,2024-05-29,wwwcreditcentralllccom,Finance,United States,PLAY
+16,2024-05-22,wwwlevinportercom,Law Firm,United States,PLAY
+17,2024-05-22,wwwsemicorecom,Semiconductor Manufacturing,United States,PLAY
+18,2024-05-22,wwwvisalightingcom,Lighting,United States,PLAY
+19,2024-05-22,wwwardenbrookcom,Healthcare,United States,PLAY
+20,2024-05-22,wwwrdiglobalhospitalitycom,Hospitality,United States,PLAY
+21,2024-05-22,wwwadncom,Advertising,United States,PLAY
+22,2024-05-22,wwwexperistgcom,Financial Services,United States,PLAY
+23,2024-09-29,wwwgarveyscarpetcom,Retail,United States,PLAY
+24,2024-09-29,wwwclassicbusinesscom,Business Services,United States,PLAY
+25,2024-09-29,wwwrubberresourcescom,Rubber/Plastics Manufacturing,United States,PLAY
+26,2024-09-29,infracomse,Telecommunications,Sweden,PLAY
+27,2024-09-29,wwwgssolutionscom,Consulting,United States,PLAY
+28,2024-09-29,wwwandantexcom,Manufacturing,United States,PLAY
+29,2024-09-29,wwwgo4bcom,Logistics,United States,PLAY
+30,2024-09-29,wwwreuttergroupcom,Logistics,Germany,PLAY
+31,2024-09-29,wwwperformancefoodcenterscom,Food and Beverage,United States,PLAY
+32,2024-09-29,wwwinteriorworxcommercialflooringcom,Construction/Contracting,United States,PLAY
+33,2024-09-29,wwwaffirmagencycom,Marketing,United States,PLAY
+34,2024-09-26,wwwmilehicompaniescom,Mile High Companies appears to be in the **Logistics/Transportation** industry.,United States,PLAY
+35,2024-09-23,wwweurobulkgr,Shipping/Logistics,Greece,PLAY
+36,2024-09-23,wwwbroadgraincom,Agriculture,Canada,PLAY
+37,2024-09-21,wwwtbmdfcom,Healthcare,United States,PLAY
+38,2024-09-21,wwwpaccoastcom,Logistics,United States,PLAY
+39,2024-09-21,wwwomegaindustriescom,Manufacturing,United States,PLAY
+40,2024-09-21,wwwnobleenvirocom,Environmental Services,United States,PLAY
+41,2024-09-21,wwwmessecdk,Healthcare,Denmark,PLAY
+42,2024-09-21,wwwjacksonpapernet,Healthcare,United States,PLAY
+43,2024-09-19,wwwplaistedcompaniescom,Manufacturing,United States,PLAY
+44,2024-09-16,wwwmultidatalu,Healthcare,Luxembourg,PLAY
+45,2024-09-16,wwwhariripontarinicom,Manufacturing,Canada,PLAY
+46,2024-09-16,wwwrspca,Non-profit/Charity,Canada,PLAY
+47,2024-09-16,wwwpipusacom,Manufacturing,United States,PLAY
+48,2024-09-16,wwwbaskervillcom,Healthcare,United States,PLAY
+49,2024-09-13,wwwcreativeplaythingscom,Toys and Games,United States,PLAY
+50,2024-09-13,wwwdminjcom,Healthcare,United States,PLAY
+51,2024-09-13,wwwtruefamilyenterprisescom,Non-profit/Charity,United States,PLAY
+52,2024-09-10,wwwsecoolercom,Healthcare,United States,PLAY
+53,2024-09-10,wwwswartzelectriccom,Electrical,United States,PLAY
+54,2024-09-10,wwwbelairbayclubcom,Hospitality,United States,PLAY
+55,2024-09-10,wwwelginseparationsolutionscom,Oil and Gas,United States,PLAY
+56,2024-09-10,wwwpwadcnet,Government,United States,PLAY
+57,2024-09-10,wwwweldcobealescom,Healthcare,Canada,PLAY
+58,2024-06-12,wwwkintercom,Software/Technology,United States,PLAY
+59,2024-06-12,wwwcorbinturfcom,Landscaping/Environmental Services,United States,PLAY
+60,2024-06-12,wwwaircleaningspecialistscom,Healthcare,United States,PLAY
+61,2024-06-12,wwwdtindustrialflooringcom,Construction,United States,PLAY
+62,2024-06-12,wwwcitybuilderscom,Architecture/Engineering,United States,PLAY
+63,2024-06-12,wwwrrlawca,Legal Services,Canada,PLAY
+64,2024-06-12,wwwaldenhovennl,Maritime,Netherlands,PLAY
+65,2024-06-12,wwwamarillagascom,Healthcare,Argentina,PLAY
+66,2024-06-12,wwwmonsterasmetallse,Manufacturing,Sweden,PLAY
+67,2024-06-12,wwwmetooshoescom,Retail,United States,PLAY
+68,2024-06-12,wwwcelluphonecom,Telecommunications,United States,PLAY
+69,2024-06-12,wwwwwpch,Healthcare,Switzerland,PLAY
+70,2024-01-19,wwwtpgarchitecturecom,Architecture,United States,PLAY
+71,2024-01-06,wwwteleverdecom,Healthcare,United States,PLAY
+72,2023-12-21,wwwquiltyca,Accounting,Canada,PLAY
+73,2023-12-20,wwwdigipackagingcom,Packaging,United States,PLAY
+74,2023-12-20,wwwconceptdatadk,Healthcare,Denmark,PLAY
+75,2023-12-20,wwwjonrichardcom,Education,United Kingdom,PLAY
+76,2023-12-18,wwwcmpaulacom,Healthcare,United States,PLAY
+77,2023-12-18,wwwwaldnerscom,Food Processing,United States,PLAY
+78,2023-12-18,wwwschoepedisplaycom,Manufacturing,Germany,PLAY
+79,2024-07-04,wwwprairieathleticcom,Healthcare,United States,PLAY
+80,2024-07-04,wwwinnerspeccom,Automotive,United States,PLAY
+81,2024-07-04,wwwindaorg,Healthcare,United States,PLAY
+82,2024-07-04,wwwtexasrecyclingcom,Waste and Recycling,United States,PLAY
+83,2024-07-04,wwwelyriafoundrycom,Manufacturing,United States,PLAY
+84,2024-06-23,wwwcustomconcretecom,Construction,United States,PLAY
+85,2024-06-23,wwwpromotionholdingscom,Promotions Holdings is based in the Advertising industry.,United States,PLAY
+86,2024-06-23,wwwrrcaaccountscom,Accounting,United States,PLAY
+87,2024-06-23,wwwbungersteelcom,Manufacturing,United States,PLAY
+88,2024-06-23,wwwinquesttechnologiescom,Healthcare,United Kingdom,PLAY
+89,2024-06-23,wwwhedrickbrotherscom,Agriculture,United States,PLAY
+90,2024-06-23,wwwbelletirecom,Retail,United States,PLAY
+91,2024-09-10,wwwevansdistcom,Logistics,United States,PLAY
+92,2024-09-04,wwwseiruscom,Healthcare,United States,PLAY
+93,2024-09-04,wwwcraingroupcom,Healthcare,United States,PLAY
+94,2024-09-04,wwwbakersfieldcom,Media,United States,PLAY
+95,2024-09-04,wwwfarmersricecom,Agriculture,United States,PLAY
+96,2024-08-28,wwwclabotsbe,Manufacturing,Belgium,PLAY
+97,2024-08-28,wwwomicrongranitenet,Construction,United States,PLAY
+98,2024-08-28,wwwuniversalpurecom,Chemicals,United States,PLAY
+99,2024-08-28,wwwabcpartsnet,Automotive,United States,PLAY
+100,2024-08-28,wwwgdbinternationalcom,Engineering/Consulting,United States,PLAY
+101,2024-08-28,wwwseadeocom,Maritime,United States,PLAY
+102,2024-03-11,wwwfashionsukcom,Fashion,United Kingdom,PLAY
+103,2024-03-11,wwwgrassmidtransportinccom,Transportation,United States,PLAY
+104,2024-03-11,wwwimagepointecom,Graphics/Design,United States,PLAY
+105,2024-03-11,wwwrudaautocom,Automotive,United States,PLAY
+106,2024-03-11,wwwzsbca,Healthcare,Canada,PLAY
+107,2024-03-11,wwwbechtoldfensterde,Window and Door Manufacturer,Germany,PLAY
+108,2024-03-11,wwwschokinagcom,Food Processing,Germany,PLAY
+109,2024-03-11,wwwqeocom,Healthcare,United States,PLAY
+110,2024-03-06,wwwmainvestcom,Finance,United States,PLAY
+111,2024-03-06,wwwcontinentalaero,Aerospace,United States,PLAY
+112,2024-03-01,wwwfbiconstructioncom,Construction,United States,PLAY
+113,2024-03-01,wwwkoolairinccom,"HVAC (Heating, Ventilation, and Air Conditioning)",Canada,PLAY
+114,2024-08-27,wwwprecominccom,Construction,United States,PLAY
+115,2024-08-27,wwwmicrochipcom,Semiconductors/Electronics,United States,PLAY
+116,2024-08-21,wwwpasolutionscom,Professional Services,United States,PLAY
+117,2024-08-21,wwwrcgllccom,Healthcare,United States,PLAY
+118,2024-08-21,wwwarmourcoatingscom,Coatings/Manufacturing,United States,PLAY
+119,2024-08-21,wwwthesmsgroupcom,Healthcare,United States,PLAY
+120,2024-08-13,wwweriemeatscom,Food Processing,Canada,PLAY
+121,2024-08-13,wwwmycinematechcom,Entertainment,United States,PLAY
+122,2024-08-13,wwwadinareytercom,Healthcare,United States,PLAY
+123,2024-08-13,wwwaithermalcom,Manufacturing,United States,PLAY
+124,2024-08-13,wwwparkerdevcocom,Construction,United States,PLAY
+125,2024-08-13,wwwmillcreeklumbercom,Lumber/Yard Supply,United States,PLAY
+126,2024-03-27,wwwalberlawcom,Law Firm,United States,PLAY
+127,2024-03-27,wwwfestspielhausde,Cultural Institution,Germany,PLAY
+128,2024-03-27,wwwweldpluscom,Healthcare,United States,PLAY
+129,2024-03-27,wwwjmthompsoncom,Engineering/Architecture,United States,PLAY
+130,2024-03-27,,Healthcare,Poland,PLAY
+131,2024-03-27,wwwpavilionconstructioncom,Construction,United States,PLAY
+132,2024-03-27,wwwboingographicscom,Media/Entertainment,United States,PLAY
+133,2024-03-11,wwwpremiertechnologynet,Healthcare,United States,PLAY
+134,2024-03-11,wwwsreecom,Energy,United States,PLAY
+135,2024-03-11,wwwbridgerinscom,Insurance,United States,PLAY
+136,2024-03-11,wwwbitecsmicom,Manufacturing,United States,PLAY
+137,2024-03-11,wwwqigroupca,Quality Assurance (QA),Canada,PLAY
+138,2024-06-23,wwwharveyconstcom,Construction,United States,PLAY
+139,2024-06-23,wwwtpicorpcom,Transportation,United States,PLAY
+140,2024-06-13,wwwsrfirmscom,Law Firms,United States,PLAY
+141,2024-06-13,wwwchromacolorscom,Graphic Design/Printing,United States,PLAY
+142,2024-06-13,wwwpeteatlantacom,Healthcare,United States,PLAY
+143,2024-06-13,wwwglitcom,Logistics,United States,PLAY
+144,2024-06-13,wwweaglematerialscom,Construction,United States,PLAY
+145,2024-06-13,www3glca,Law Firms/Professional Services,Canada,PLAY
+146,2024-06-13,wwwfreightbillauditorcom,Logistics/Transportation,United States,PLAY
+147,2024-06-13,wwwwestmechhvaccom,"HVAC (Heating, Ventilation, and Air Conditioning)",United States,PLAY
+148,2024-06-13,wwwseagulfcom,Energy,Canada,PLAY
+149,2024-03-01,wwwskylandgraincom,Agriculture,United States,PLAY
+150,2024-02-29,wwwgilmoreassoccom,Healthcare,United States,PLAY
+151,2024-02-15,wwwmeerservicesnl,Maritime/Shipping,Netherlands,PLAY
+152,2024-02-15,wwwonclusivecom,Law Firm,United States,PLAY
+153,2024-02-15,wwwmechrepscom,Manufacturing,United States,PLAY
+154,2024-02-15,wwwnorfoxchemcom,Chemicals,United States,PLAY
+155,2024-02-15,wwwvonhagennet,Agriculture,Germany,PLAY
+156,2024-02-15,wwwlddaviscom,Manufacturing,United States,PLAY
+157,2024-02-05,wwwleadersstaffingcom,Staffing/HR,United States,PLAY
+158,2024-02-05,wwwdclorg,Defense Contracting,United States,PLAY
+159,2024-03-01,wwwskylandgraincom,Agriculture,United States,PLAY
+160,2024-02-29,wwwgilmoreassoccom,Consulting,United States,PLAY
+161,2024-02-15,wwwmeerservicesnl,Manufacturing,Netherlands,PLAY
+162,2024-02-15,wwwonclusivecom,Healthcare,United States,PLAY
+163,2024-02-15,wwwmechrepscom,Mechanical,United States,PLAY
+164,2024-02-15,wwwnorfoxchemcom,Chemical,United States,PLAY
+165,2024-02-15,wwwvonhagennet,Transportation,Germany,PLAY
+166,2024-02-15,wwwlddaviscom,Construction,United States,PLAY
+167,2024-02-05,wwwleadersstaffingcom,Staffing/Recruiting,United States,PLAY
+168,2024-02-05,wwwdclorg,Defense Contractor,United States,PLAY
+169,2024-04-11,wwwnewwpkgcom,Healthcare,United States,PLAY
+170,2024-04-11,wwwaccessintelcom,Market Research/Consulting,United States,PLAY
+171,2024-04-11,wwwtheatrixxcom,Healthcare,Canada,PLAY
+172,2024-04-11,wwwmoldtechrubbercom,Manufacturing,United States,PLAY
+173,2024-04-10,wwwfeldsteinandstewartcom,Accounting,United States,PLAY
+174,2024-04-04,wwweverbritecom,Healthcare,United States,PLAY
+175,2024-04-04,wwwguysfloorcom,Retailer,United States,PLAY
+176,2024-04-04,wwwsitnsleepcom,Healthcare,United States,PLAY
+177,2024-03-27,wwwlambdaenergyllccom,Energy,United States,PLAY
+178,2024-03-27,wwwlsrlcom,Logistics,United States,PLAY
+179,2024-03-27,wwwqualityenclosurescom,Manufacturing,United States,PLAY
+180,2024-03-27,wwwhartzcom,Real Estate,United States,PLAY
+181,2024-08-12,wwwgridsmecom,Energy,United States,PLAY
+182,2024-08-11,wwwtelpro1com,Telecommunications,United States,PLAY
+183,2024-08-10,wwwnilorncom,Healthcare,Sweden,PLAY
+184,2024-08-10,crediblegroupcom,Healthcare,Canada,PLAY
+185,2024-08-06,wwwkinetxcom,Healthcare,United States,PLAY
+186,2024-08-06,wwwgranitdesigncom,Design/Architecture,Canada,PLAY
+187,2024-08-06,wwwtrueblueenvironmentalcom,Environmental Services,United States,PLAY
+188,2024-08-06,wwwalternateenergyhawaiicom,Energy/Utilities,United States,PLAY
+189,2024-07-25,wwwofficeopscom,Healthcare,United States,PLAY
+190,2024-07-25,wwwodysseyfitnesscentercom,Health and wellness,United States,PLAY
+191,2024-07-25,wwwgendroncorpcom,Manufacturing,United States,PLAY
+192,2024-04-26,wwwyalemortgagecom,Finance,United States,PLAY
+193,2024-04-26,wwwprecisionfluidcontrolscom,Manufacturing,United States,PLAY
+194,2024-04-26,wwworiginalherkimercheesecom,Agriculture,United States,PLAY
+195,2024-04-26,wwwaxipcom,Communications Equipment,United States,PLAY
+196,2024-04-19,wwweaminccom,Healthcare,United States,PLAY
+197,2024-04-19,wwwpaconventioncom,Healthcare,United States,PLAY
+198,2024-04-19,wwwsisautomatiseringnl,Automotive,Netherlands,PLAY
+199,2024-04-19,wwwalltruckbodiescomau,Manufacturing,Australia,PLAY
+200,2024-04-19,wwwjeowenscom,Manufacturing,United States,PLAY
+201,2024-04-12,wwwheritagecooperativecom,Financial Services,United States,PLAY
+202,2024-04-11,wwwmbtwcom,Banking,Canada,PLAY
+203,2024-04-11,wwwlsnetworksnet,Telecommunications,United States,PLAY
+204,2024-07-25,wwwgwextrusionscom,Manufacturing,United States,PLAY
+205,2024-07-25,wwwwilliamsconstcom,Construction,United States,PLAY
+206,2024-07-25,wwwcompactmouldcom,Manufacturing,Canada,PLAY
+207,2024-07-25,wwwitstaffingcom,IT Staffing,United States,PLAY
+208,2024-07-17,wwwmipscom,Manufacturing,United States,PLAY
+209,2024-07-17,wwwhaydenpowercom,Energy/Utilities,United States,PLAY
+210,2024-07-17,wwwcongoleumcom,Construction,United States,PLAY
+211,2024-07-11,wwwtpicorpcom,Transportation,United States,PLAY
+212,2024-07-11,www21stcenturyenergygroupcom,Energy/Utilities,United States,PLAY
+213,2024-07-11,wwwtexasecorg,Government,United States,PLAY
+214,2024-07-11,wwwhypericecom,Healthcare/Wellness,United States,PLAY
+215,2024-07-04,wwwfareriassociatescom,Consulting,United States,PLAY
+216,2024-03-01,wwwinfluencecommunicationcom,Communications,Canada,PLAY
+217,2024-03-01,wwwcoastalcarcom,Automotive,United States,PLAY
+218,2024-03-01,wwwmarketoncom,Healthcare,United States,PLAY
+219,2024-03-01,wwwcompactmouldcom,Manufacturing,Canada,PLAY
+220,2024-03-01,wwwnesmcocom,Healthcare,United States,PLAY
+221,2024-03-01,wwwredrivertitlecom,Finance,United States,PLAY
+222,2024-03-01,wwwhedlundspapperse,Printing/Publishing,Sweden,PLAY
+223,2024-03-01,wwwwinonapatterncom,Healthcare,United States,PLAY
+224,2024-03-01,wwwtransplusio,Transportation,Canada,PLAY
+225,2024-03-01,wwwpowillcom,"Powell Communications
+
+Industry: Telecommunications",United States,PLAY
+226,2024-03-01,wwwaawirelessus,Telecommunications,United States,PLAY
+227,2024-03-01,wwwamericannutscom,Food Processing,United States,PLAY
+228,2024-05-07,wwwraymonhvaccom,"HVAC (Heating, Ventilation, and Air Conditioning)",United States,PLAY
+229,2024-05-07,wwwsomervilleinccom,Energy/Utilities,United States,PLAY
+230,2024-05-07,wwwmauritzonnet,Financial Services,United States,PLAY
+231,2024-05-07,wwwhpsllcus,Healthcare,United States,PLAY
+232,2024-05-07,wwwcentralcivilcom,Government/Defense,United States,PLAY
+233,2024-05-03,wwwstainlessfoundrycom,Manufacturing,United States,PLAY
+234,2024-04-30,wwwprofileproductscom,Manufacturing,United States,PLAY
+235,2024-04-30,wwwnetabncom,Telecommunications,United States,PLAY
+236,2024-04-30,wwwcanatalnet,Shipping and Logistics,United States,PLAY
+237,2024-04-26,wwwnewhudsonfacadescom,Manufacturing,United States,PLAY
+238,2024-04-26,wwwtoolmartscom,Retail,United States,PLAY
+239,2024-04-26,wwwlbdcstatenyus,Local Government,United States,PLAY
+240,2024-05-22,wwwfreemancompanycom,Manufacturing,United States,PLAY
+241,2024-05-22,wwwaspiretaxcom,Taxation/Accounting,United States,PLAY
+242,2024-05-22,wwwsamorzadgovpl,Government,Poland,PLAY
+243,2024-05-22,wwwtristategccom,Government,United States,PLAY
+244,2024-05-22,wwwryderscottcom,Transportation,United States,PLAY
+245,2024-05-10,wwwbadgertagcom,Logistics,United States,PLAY
+246,2024-05-10,wwwnkpartscom,Automotive,United States,PLAY
+247,2024-05-10,wwwlivehelpnownet,Healthcare,United States,PLAY
+248,2024-05-07,wwwsentrydatamgtcom,Data Management,United States,PLAY
+249,2024-05-07,wwwkcscoutnet,Scouting/Guiding,United States,PLAY
+250,2024-05-07,wwwuticamackcom,Healthcare,United States,PLAY
+251,2024-05-07,wwwapbservicescom,Aerospace,United States,PLAY
+252,2024-09-29,markdom.com,Construction,United States,RansomHub
+253,2024-09-28,rockymountaingastro.com,Healthcare,United States,RansomHub
+254,2024-09-28,www.contegritygroup.com,Information Technology (IT) Services,United States,RansomHub
+255,2024-09-27,PipelBiz.com,Oil and Gas,United States,RansomHub
+256,2024-09-26,www.naniwa-pump.co.jp,Manufacturing,Japan,RansomHub
+257,2024-09-26,www.vbrlogistica.com.br,Logistics,Brazil,RansomHub
+258,2024-09-26,www.careco.se,Healthcare,Sweden,RansomHub
+259,2024-09-26,www.tokiwa-group.co.jp,Healthcare,Japan,RansomHub
+260,2024-09-26,www.law-taxes.pl,Legal/Professional Services,Poland,RansomHub
+261,2024-09-24,appweb.usinacoruripe.com.br,Energy and Utilities,Brazil,RansomHub
+262,2024-09-24,libraries.delaware.gov,Government,United States,RansomHub
+263,2024-09-14,tellurianinc.org,Energy,Canada,RansomHub
+264,2024-09-23,bakpilic.com.tr,Food and Beverage,Turkey,RansomHub
+265,2024-09-20,aroma.com.tr,Food and Beverage,Turkey,RansomHub
+266,2024-08-28,www.quenotedeporten.com,Media,Brazil,RansomHub
+267,2024-09-16,www.taperuvicha.com,Healthcare,Peru,RansomHub
+268,2024-09-16,www.8010urbanliving.com,Real Estate,United States,RansomHub
+269,2024-09-16,www.adantia.es,Healthcare,Spain,RansomHub
+270,2024-09-16,www.faithfc.org,Financial Services,United States,RansomHub
+271,2024-09-16,www.tta.cls,Healthcare,United States,RansomHub
+272,2024-09-16,kryptonresources.com,Energy,Australia,RansomHub
+273,2024-09-16,oipip.gda.pl,Healthcare,Poland,RansomHub
+274,2024-09-07,cardiovirginia.com,Healthcare,United States,RansomHub
+275,2024-09-18,virainsight.com,Healthcare,United States,RansomHub
+276,2024-09-19,rarholding.com,Logistics,Australia,RansomHub
+277,2024-09-19,advbe.com,Banking,United States,RansomHub
+278,2024-09-19,avl1.com,Logistics/Transportation,United States,RansomHub
+279,2024-09-17,www.nikpol.com.au,Manufacturing,Australia,RansomHub
+280,2024-09-17,www.plumbersstock.com,Wholesaling/retailing,United States,RansomHub
+281,2024-09-13,capecodacademy.org,Education,United States,RansomHub
+282,2024-09-16,topdoctors.com,Healthcare,United States,RansomHub
+283,2024-09-10,lafuturasrl.it,Food/Beverage,Italy,RansomHub
+284,2024-09-10,advantagecdc.org,Healthcare,United States,RansomHub
+285,2024-09-10,accuraterailroad.com,Railroad,United States,RansomHub
+286,2024-09-07,www.atlcc.net,Healthcare,United States,RansomHub
+287,2024-09-12,www.southeasternretina.com,Healthcare,United States,RansomHub
+288,2024-09-12,mechdyne.com,Manufacturing,United States,RansomHub
+289,2024-09-12,thornton-inc.com,Engineering/Construction,United States,RansomHub
+290,2024-09-10,allamericanpoly.com,Manufacturing,United States,RansomHub
+291,2024-09-10,www.vinatiorganics.com,Food Processing,Australia,RansomHub
+292,2024-09-06,americagraphics.com,Graphics/Printing,United States,RansomHub
+293,2024-09-09,www.avf-biomedical.com,Medical Equipment,United States,RansomHub
+294,2024-09-09,www.iiitd.ac.in,Education,India,RansomHub
+295,2024-09-09,www.unige.it,Education,Italy,RansomHub
+296,2024-09-05,briedis.lt,Retail,Lithuania,RansomHub
+297,2024-09-05,tri-tech.us,Telecommunications,United States,RansomHub
+298,2024-09-05,cbt-gmbh.de,Consulting/Professional Services,Germany,RansomHub
+299,2024-09-05,inorde.com,Logistics,United States,RansomHub
+300,2024-09-05,cps-k12.org,Education,United States,RansomHub
+301,2024-09-05,Inglenorth.co.uk,Construction,United Kingdom,RansomHub
+302,2024-09-05,phdservices.net,Healthcare,United States,RansomHub
+303,2024-09-05,kawasaki.eu,Automotive,Germany,RansomHub
+304,2024-09-05,www.towellengineering.net,Engineering,United States,RansomHub
+305,2024-09-05,www.parknfly.ca,Transportation,Canada,RansomHub
+306,2024-09-04,www.galgorm.com,Hospitality,United Kingdom,RansomHub
+307,2024-09-04,www.bennettcurrie.co.nz,Accounting,New Zealand,RansomHub
+308,2024-09-04,plannedparenthood.org,Healthcare,United States,RansomHub
+309,2024-09-03,gardenhomesmanagement.com,Real Estate,United States,RansomHub
+310,2024-08-29,wilmingtoncc.org,Education,United States,RansomHub
+311,2024-09-02,www.pokerspa.it,Gaming/Entertainment,Italy,RansomHub
+312,2024-09-02,www.sanyo-bussan.co.jp,Construction,Japan,RansomHub
+313,2024-09-02,www.amberbev.com,Beverage manufacturing,South Africa,RansomHub
+314,2024-09-02,Removal.AI,Artificial Intelligence/ Machine Learning,United States,RansomHub
+315,2024-09-02,www.sanyo-av.com<Taiwan>,Electronics,Taiwan,RansomHub
+316,2024-08-27,www.electriforce.com,Energy,United Kingdom,RansomHub
+317,2024-09-02,www.schneider.ch,Manufacturing,Switzerland,RansomHub
+318,2024-08-29,ciot.com,Healthcare,Canada,RansomHub
+319,2024-08-31,www.nissan-dubai.com,Automotive,United Arab Emirates (UAE),RansomHub
+320,2024-08-30,grant-associates.uk.com,Consulting,United Kingdom,RansomHub
+321,2024-08-30,www.lfewines.com,Wine and Spirits,United States,RansomHub
+322,2024-08-30,www.gruyeria.ch,Food Manufacturing,Switzerland,RansomHub
+323,2024-08-30,www.fenceauthority.com,Home Security,United States,RansomHub
+324,2024-08-30,www.johnkellys.com,Real Estate,United States,RansomHub
+325,2024-08-30,www.iph-bet.fr,Healthcare,France,RansomHub
+326,2024-08-30,www.suvacity.org,Healthcare,South Africa,RansomHub
+327,2024-08-30,www.primariatm.ro,Healthcare,Romania,RansomHub
+328,2024-08-30,www.mineduc.gob.gt,Education,Guatemala,RansomHub
+329,2024-08-30,www.swinburne.edu,Education,Australia,RansomHub
+330,2024-08-30,www.iiitd.ac.in,Education,India,RansomHub
+331,2024-08-30,www.ramoncorripio.com,Healthcare,Spain,RansomHub
+332,2024-08-30,www.timortelecom.tl,Telecommunications,Togo,RansomHub
+333,2024-08-30,www.citebd.org,Education,Bangladesh,RansomHub
+334,2024-08-17,glasstile.com,Manufacturing,United Kingdom,RansomHub
+335,2024-08-26,rainierarms.com,Manufacturing,Canada,RansomHub
+336,2024-08-27,www.chwa.com.tw,Finance,Taiwan,RansomHub
+337,2024-08-27,www.polycohealthline.com,Healthcare,United States,RansomHub
+338,2024-08-27,dpfza.gov.dj,Government,Djibouti,RansomHub
+339,2024-08-26,www.spie-tec.de,Engineering/Consulting,Germany,RansomHub
+340,2024-08-26,htsusa.com,Healthcare,United States,RansomHub
+341,2024-08-26,www.smarterp.com<Auction>,Real Estate,United States,RansomHub
+342,2024-07-09,www.alabamaplate.com,Manufacturing,United States,RansomHub
+343,2024-08-25,prasarana.com.my,Transportation,Malaysia,RansomHub
+344,2024-08-22,saudi arabia(general secretariat of the military service council),Government,Saudi Arabia,RansomHub
+345,2024-08-21,www.banhampoultry.co.uk,Food and Beverage,United Kingdom,RansomHub
+346,2024-08-20,capitalfund1.com,Finance,United States,RansomHub
+347,2024-08-20,blowerdempsay.com,Engineering,United Kingdom,RansomHub
+348,2024-08-20,inlighten.net<Disclose>,Healthcare,Sweden,RansomHub
+349,2024-08-18,ccsdschools.com<disclose>,Education,United States,RansomHub
+350,2024-08-14,imobesidade.com.br,Healthcare,Brazil,RansomHub
+351,2024-08-17,www.manotherm.ie,Manufacturing,Ireland,RansomHub
+352,2024-08-17,www.netconfig.co.za,Telecommunications,South Africa,RansomHub
+353,2024-08-17,www.regentcaravans.com.au,Manufacturing,Australia,RansomHub
+354,2024-08-17,www.gmchc.org,Healthcare,United States,RansomHub
+355,2024-08-17,www.martinswood.herts.sch.uk,Education,United Kingdom,RansomHub
+356,2024-08-17,www.allanmcneill.co.nz,Architecture/Construction,New Zealand,RansomHub
+357,2024-08-17,www.lennartsfors.com,Fashion,Sweden,RansomHub
+358,2024-08-17,www.albynhousing.org.uk,Housing,United Kingdom,RansomHub
+359,2024-08-16,www.vinakom.com,Manufacturing,Vietnam,RansomHub
+360,2024-08-15,nrcollecties.nl,Antiques/Rare Collectibles,Netherlands,RansomHub
+361,2024-08-16,www.patelco.org<Disclose>,Finance,United States,RansomHub
+362,2024-08-15,www.aaconsultinc.com,Engineering/Architecture,Australia,RansomHub
+363,2024-08-14,ljglaw.com,Legal Services,United States,RansomHub
+364,2024-08-15,www.atwoodcherny.com,Construction,United States,RansomHub
+365,2024-08-15,www.isnart.it,Manufacturing,Italy,RansomHub
+366,2024-08-14,police.praca.gov.pl,Public administration/Local government,Poland,RansomHub
+367,2024-08-12,bedford.k12.oh.us,Education,United States,RansomHub
+368,2024-08-13,welevelup.com,Healthcare,United States,RansomHub
+369,2024-08-11,naturalcuriosities.com,Tourism,United States,RansomHub
+370,2024-08-11,Jeffersoncountyclerk.org,Government,United States,RansomHub
+371,2024-08-09,alliuminteriors.co.nz,Architecture/Design,New Zealand,RansomHub
+372,2024-07-14,lmgroup.com<Disclose>,Logistics,United States,RansomHub
+373,2024-08-09,kempe.com.au,Healthcare,Australia,RansomHub
+374,2024-08-09,dhcgrp.com,Healthcare,United Kingdom,RansomHub
+375,2024-07-25,mrhme.org,Healthcare,United States,RansomHub
+376,2024-08-08,golfoy.com,E-commerce,United States,RansomHub
+377,2024-08-06,pierrediamonds.com.au,Jewelry,Australia,RansomHub
+378,2024-08-08,inv-dar.com,Healthcare,United States,RansomHub
+379,2024-08-08,rationalenterprise.com<disclose>,Consulting,United States,RansomHub
+380,2024-08-02,modernceramics.com,Manufacturing,United Kingdom,RansomHub
+381,2024-08-07,hudsoncivil.com.au,Construction,Australia,RansomHub
+382,2024-08-07,amplicon.com,Healthcare,Canada,RansomHub
+383,2024-08-06,infotexim.pe<Auction>,Finance,Peru,RansomHub
+384,2024-08-06,www.sobha.com,Real Estate,India,RansomHub
+385,2024-08-02,retaildatallc.com,Retail,United States,RansomHub
+386,2024-07-31,www.bahia-principe.com,Hospitality/Tourism,Mexico,RansomHub
+387,2024-07-12,www.normandydiesel.fr,Automotive,France,RansomHub
+388,2024-08-01,effinghamschools.com,Education,United States,RansomHub
+389,2024-08-01,mcdowallaffleck.com.au,Legal Services,Australia,RansomHub
+390,2024-07-31,nydj.com,Healthcare,United States,RansomHub
+391,2024-07-31,wgma.org,Healthcare,United States,RansomHub
+392,2024-07-30,verwarmingheyndrickx.be,Healthcare,Belgium,RansomHub
+393,2024-07-29,labor-koblenz.de,Healthcare,Germany,RansomHub
+394,2024-07-26,www.castelligroup.com,Healthcare,United States,RansomHub
+395,2024-07-26,www.whittakersystem.com,Engineering/Manufacturing,United States,RansomHub
+396,2024-07-22,www.neurologicalinstitute.com,Healthcare,United States,RansomHub
+397,2024-07-24,oficina.oficinadasfinancas.com.br,Financial Services,Brazil,RansomHub
+398,2024-07-23,bpjaguar.com,Automotive,Peru,RansomHub
+399,2024-07-23,ach.co.th,Healthcare,Thailand,RansomHub
+400,2024-07-25,baytoti.com,Healthcare,Israel,RansomHub
+401,2024-07-25,cminsulation.com,Construction,United States,RansomHub
+402,2024-07-25,panitchlaw.com,Law,Canada,RansomHub
+403,2024-07-23,sigmacontrol.eu,Manufacturing,Slovenia,RansomHub
+404,2024-07-20,www.byzan.com,Healthcare,Australia,RansomHub
+405,2024-07-20,www.garudafood.com,Food Processing,Indonesia,RansomHub
+406,2024-07-19,www.kumagaigumi.co.jp,Construction,Japan,RansomHub
+407,2024-07-16,www.glowfm.nl,Radio,Netherlands,RansomHub
+408,2024-07-16,www.newcastlewa.gov,Government,Australia,RansomHub
+409,2024-07-16,metalfrio.com.br,Food and Beverage,Brazil,RansomHub
+410,2024-07-14,www.erma-rtmo.it,Healthcare,Italy,RansomHub
+411,2024-07-18,pgd.pl,Transportation,Poland,RansomHub
+412,2024-07-16,hlbpr.com,Healthcare,United States,RansomHub
+413,2024-07-16,ceopag.com.br / ceofood.com.br,Food/Beverage,Brazil,RansomHub
+414,2024-07-16,www.cameronhodges.com,Healthcare,United States,RansomHub
+415,2024-07-16,www.benchinternational.com,Healthcare,United States,RansomHub
+416,2024-07-02,www.zepter.de,Healthcare,Germany,RansomHub
+417,2024-07-11,www.riteaid.com,Pharmaceutical/Healthcare,United States,RansomHub
+418,2024-07-11,www.eurostrand.de,Manufacturing,Germany,RansomHub
+419,2024-07-11,www.lynchaluminum.com,Manufacturing,United States,RansomHub
+420,2024-07-11,www.netavent.dk,Healthcare,Denmark,RansomHub
+421,2024-07-11,www.bfcsolutions.com,Healthcare,United States,RansomHub
+422,2024-06-19,aedifica.com,Healthcare,Italy,RansomHub
+423,2024-07-03,baiminstitute.org,Healthcare,United States,RansomHub
+424,2024-07-03,www.swcs-inc.com,Waste Management,United States,RansomHub
+425,2024-03-29,eni.com&mellitahog.ly,Energy,Italy,RansomHub
+426,2024-07-02,www.daesangamerica.com,Food Processing,United States,RansomHub
+427,2024-06-29,www.hauptmann.at,Healthcare,Austria,RansomHub
+428,2024-06-29,www.finecopneumatica.com,Oil and Gas,Romania,RansomHub
+429,2024-07-01,www.sfmedical.de,Healthcare,Germany,RansomHub
+430,2024-07-01,www.nttdata.ro,IT/Technology,Romania,RansomHub
+431,2024-07-01,floridahealth.gov,Government,United States,RansomHub
+432,2024-06-28,Spandex.com,Apparel/Fashion,United States,RansomHub
+433,2024-06-27,midamea.com<Auction>,Auctions,United States,RansomHub
+434,2024-06-24,equinocioplay.com.br,Entertainment,Brazil,RansomHub
+435,2024-06-01,www.sicoob.com.br<Updated>,Banking,Brazil,RansomHub
+436,2024-06-27,www.cipl.org.in,Healthcare,India,RansomHub
+437,2024-06-26,daniellegroup.com,Healthcare,United States,RansomHub
+438,2024-06-23,coca-cola.com - Myanmar office,Food and Beverage,Myanmar,RansomHub
+439,2024-06-27,www.cloudeurope.it,Cloud Computing/IT Services,Italy,RansomHub
+440,2024-06-26,www.mangimifusco.it,Food and Beverage,Italy,RansomHub
+441,2024-06-24,www.harrisranchbeef.com,Meatpacking/Beef Processing,United States,RansomHub
+442,2024-06-17,bitzsoftwares.com.br,Software/Technology,Brazil,RansomHub
+443,2024-06-13,multi-wing.com,Aerospace,United States,RansomHub
+444,2024-06-19,www.invisio.com,Financial Services,Canada,RansomHub
+445,2024-06-17,www.liderit.es,Logistics,Spain,RansomHub
+446,2024-06-16,parlorenzo.com,Healthcare,Italy,RansomHub
+447,2024-06-20,www.gbricambi.it [UPDATE],Manufacturing,Italy,RansomHub
+448,2024-06-11,smicusa.com,Healthcare,United States,RansomHub
+449,2024-06-11,www.novabitsrl.it,Healthcare,Italy,RansomHub
+450,2024-06-05,www.ugrocapital.com,Private Equity,United States,RansomHub
+451,2024-05-13,www.crezit.com,Financial Services,United States,RansomHub
+452,2024-05-29,www.clevo.com.tw<Disclose>,Computer Hardware,Taiwan,RansomHub
+453,2024-06-01,Frontier.com,Telecommunications,United States,RansomHub
+454,2024-05-28,www.bjurholm.se,Healthcare,Sweden,RansomHub
+455,2024-05-28,www.psgbdvor.rs,Construction,Serbia,RansomHub
+456,2024-05-26,www.christies.com<SOLD>,Art and Antiques,United Kingdom,RansomHub
+457,2024-05-20,www.acslabtest.com,Laboratory/Scientific Research,United States,RansomHub
+458,2024-05-20,www.throttleup.io,Automotive,United States,RansomHub
+459,2024-05-20,www.brittanyhorne.com,Entertainment,United States,RansomHub
+460,2024-05-19,www.mataderodegijon.es,Transportation,Spain,RansomHub
+461,2024-05-17,www.houstonwastesolutions.com,Waste Management,United States,RansomHub
+462,2024-05-16,www.eastshoresound.com,Entertainment/Hospitality,United States,RansomHub
+463,2024-05-15,www.chuoss.co.jp,Construction,Japan,RansomHub
+464,2024-05-15,www.oriux.com,Healthcare,United States,RansomHub
+465,2024-05-14,www.neodesha.org,Education,United States,RansomHub
+466,2024-05-14,www.rockymountainsales.com,Manufacturing,United States,RansomHub
+467,2024-05-14,www.eucatex.com.br,Textile,Brazil,RansomHub
+468,2024-05-13,www.confins.com.br,Financial Services,Brazil,RansomHub
+469,2024-05-13,OKUANT - okuant.com,Construction,Russia,RansomHub
+470,2024-05-08,iseta.fr,Healthcare,France,RansomHub
+471,2024-05-07,www.lalengineering.com,Engineering,United States,RansomHub
+472,2024-05-06,www.portosaofrancisco.com.br,Logistics,Brazil,RansomHub
+473,2024-05-05,www.kamojou.co.za,Manufacturing,South Africa,RansomHub
+474,2024-05-04,www.thaayakam.co.uk,Education,United Kingdom,RansomHub
+475,2024-05-02,www.extraco.ae,Logistics/Transportation,United Arab Emirates,RansomHub
+476,2024-04-26,www.polaris.es,Logistics,Spain,RansomHub
+477,2024-04-25,www.jutebag.co.uk,Textile/Apparel,United Kingdom,RansomHub
+478,2024-04-25,www.precisiontimesystems.com,Manufacturing,United States,RansomHub
+479,2024-04-25,www.designintoto.com.au,Graphic Design,Australia,RansomHub
+480,2024-04-24,www.europeanprof.es,Education,Spain,RansomHub
+481,2024-04-22,www.harmanrealtors.com,Real Estate,United States,RansomHub
+482,2024-04-22,nepa.gov.af&dfr.gov.af,Government,Afghanistan,RansomHub
+483,2024-04-17,www.fabricainfo.com,Textile/Manufacturing,United States,RansomHub
+484,2024-04-16,www.grupocuevas.es,Construction,Spain,RansomHub
+485,2024-04-13,www.eebpsa.com.co,Healthcare,Colombia,RansomHub
+486,2024-04-12,www.robesoncoso.org,Healthcare,United States,RansomHub
+487,2024-04-09,www.cyncsolutions.com,Cybersecurity,United States,RansomHub
+488,2024-04-09,"Baca County Feedyard, Inc",Agriculture,United States,RansomHub
+489,2024-04-08,www.skywaycoach.ca,Transportation,Canada,RansomHub
+490,2024-04-08,www.farmaciaflorio.com,Healthcare,Italy,RansomHub
+491,2024-04-07,www.nrshealthcare.com,Healthcare,United States,RansomHub
+492,2024-04-06,www.hcisystems.net,Healthcare,United States,RansomHub
+493,2024-04-06,www.betteraccountingsolutions.com,Accounting,United States,RansomHub
+494,2024-04-04,www.aretusamilano.it,Healthcare,Italy,RansomHub
+495,2024-04-03,www.agenciahost.com,Web Development/Hosting,Brazil,RansomHub
+496,2024-04-02,www.constelacion.com.sv,Energy,El Salvador,RansomHub
+497,2024-03-28,www.avantit.no,Information Technology (IT),Norway,RansomHub
+498,2024-03-22,www.pgesco.com,Energy and Utilities,United States,RansomHub
+499,2024-03-22,www.wisd.net,Education,Wisconsin,RansomHub
+500,2024-03-20,www.industrialdealimentos.com,Food Processing,Brazil,RansomHub
+501,2024-03-20,www.lapastina.com,Food/Beverage,Spain,RansomHub
+502,2024-03-12,www.kovra.com.my,Construction,Malaysia,RansomHub
+503,2024-03-11,www.computan.com,Healthcare,Turkey,RansomHub
+504,2024-03-10,www.scadea.com,Healthcare,United States,RansomHub
+505,2024-03-09,www.go4kora.tv,Entertainment,Korea,RansomHub
+506,2024-03-08,www.rekamy.com,Manufacturing,Turkey,RansomHub
+507,2024-03-08,www.dvttechnologyltd.com,IT Consulting,Australia,RansomHub
+508,2024-03-07,www.siea.sk,Healthcare,Slovakia,RansomHub
+509,2024-03-07,www.spmundi.com.br,Healthcare,Brazil,RansomHub
+510,2024-03-06,www.merchant.id,Financial Services,Australia,RansomHub
+511,2024-02-28,www.shootinghouse.com.br,Retail,Brazil,RansomHub
+512,2024-02-26,www.headwaterco.com,Energy and Water Utilities,United States,RansomHub
+513,2024-02-23,www.al-shefafarm.ro(SOLD),Agriculture,Romania,RansomHub
+514,2024-02-07,www.ykp.com.br,Transportation,Brazil,RansomHub
+515,2024-10-04,kumhotire.com,Transportation,United States,LockBit3.0
+516,2024-10-03,tpgagedcare.com.au,Healthcare,Australia,LockBit3.0
+517,2024-09-30,oleopalma.com.mx,Food and Beverage,Mexico,LockBit3.0
+518,2024-09-30,chcm.us,Healthcare,United States,LockBit3.0
+519,2024-09-26,nhbg.com.co,Banking,Colombia,LockBit3.0
+520,2024-09-26,bnsgroup.co.uk,Construction,United Kingdom,LockBit3.0
+521,2024-09-26,oyaksgs.com.tr,Finance,Turkey,LockBit3.0
+522,2024-09-18,paybito.com,Payment Processing,Brazil,LockBit3.0
+523,2024-09-18,efile.com,Tax preparation,United States,LockBit3.0
+524,2024-09-18,yesmoke.eu,E-commerce,Portugal,LockBit3.0
+525,2024-09-18,lakelandchamber.com,Chamber/Association,United States,LockBit3.0
+526,2024-09-18,crbrandsinc.com,Consumer Goods,United States,LockBit3.0
+527,2024-09-18,bspcr.com,Healthcare,United States,LockBit3.0
+528,2024-09-17,rhp.com.br,Healthcare,Brazil,LockBit3.0
+529,2024-09-17,policiaauxiliarcusaem.com.mx,Healthcare,Mexico,LockBit3.0
+530,2024-09-15,nfcaa.org,Education,Canada,LockBit3.0
+531,2024-09-15,ignitarium.com,Education,United Kingdom,LockBit3.0
+532,2024-09-15,fivestarproducts.com,Manufacturing,United States,LockBit3.0
+533,2024-09-15,apexbrasil.com.br,Agriculture,Brazil,LockBit3.0
+534,2024-09-15,bridgestoneamericas.com,Automotive,United States,LockBit3.0
+535,2024-09-15,dowley.com,Funeral Services,United States,LockBit3.0
+536,2024-09-15,salaam.af,Healthcare,Afghanistan,LockBit3.0
+537,2024-08-30,gbricambi.it,Healthcare,Italy,LockBit3.0
+538,2024-08-30,fanningfanning.com,Education,United States,LockBit3.0
+539,2024-08-30,akanea.com,Healthcare,Japan,LockBit3.0
+540,2024-08-30,jutebag.co.uk,E-commerce,United Kingdom,LockBit3.0
+541,2024-08-30,designintoto.com.au,Design and Construction,Australia,LockBit3.0
+542,2024-08-30,robesoncoso.org,Construction,United States,LockBit3.0
+543,2024-08-29,acdcexpress.com,Healthcare,Australia,LockBit3.0
+544,2024-08-29,pkf.com.au,Professional Services,Australia,LockBit3.0
+545,2024-08-29,inces.com,Finance,United States,LockBit3.0
+546,2024-08-29,huntongroup.com,Logistics,United States,LockBit3.0
+547,2024-08-29,hphood.com,Healthcare,United States,LockBit3.0
+548,2024-08-29,bridgestoneamericas.com,Automotive,United States,LockBit3.0
+549,2024-08-29,albanybank.com,Banking,United States,LockBit3.0
+550,2024-08-29,sampoernaagro.com,Agriculture,Indonesia,LockBit3.0
+551,2024-08-29,tdsb.on.ca,Education,Canada,LockBit3.0
+552,2024-08-29,alconca.com.ve,Agriculture,Venezuela,LockBit3.0
+553,2024-08-12,ultragasmexico.com,Energy,Mexico,LockBit3.0
+554,2024-08-12,taylorcrane.com,Construction,United States,LockBit3.0
+555,2024-08-12,soken-ce.co.jp,Healthcare,Japan,LockBit3.0
+556,2024-08-12,sitrack.com,Logistics/Transportation,United States,LockBit3.0
+557,2024-08-12,shinwajpn.co.jp,Education,Japan,LockBit3.0
+558,2024-08-12,mogaisrael.com,Healthcare,Israel,LockBit3.0
+559,2024-08-12,maximumresearch.com,Research and Consulting,United States,LockBit3.0
+560,2024-08-12,kioti.com,Agricultural Equipment,United States,LockBit3.0
+561,2024-08-12,indoramaventures.com,Entertainment,India,LockBit3.0
+562,2024-08-12,hatsinteriors.com,Interior Design/Furniture,United Kingdom,LockBit3.0
+563,2024-08-12,grc-c.co.il,Financial Services,Israel,LockBit3.0
+564,2024-08-12,eif.org.na,Education,Namibia,LockBit3.0
+565,2024-08-12,coreengg.com,Engineering/Consulting,Australia,LockBit3.0
+566,2024-08-12,champion.com.co,Sports Equipment,Colombia,LockBit3.0
+567,2024-08-12,centralepaysanne.lu,Agriculture,Luxembourg,LockBit3.0
+568,2024-08-12,carlfischer.com,Law Firms,United States,LockBit3.0
+569,2024-08-12,auburnpikapp.org,Fraternity/Sorority,United States,LockBit3.0
+570,2024-08-12,anwaltskanzlei-kaufbeuren.de,Law Firm/Justice,Germany,LockBit3.0
+571,2024-08-12,udhaiyamdhall.com,Healthcare,India,LockBit3.0
+572,2024-08-12,tetco.com,Energy,United States,LockBit3.0
+573,2024-08-12,ipsenlogistics.com,Logistics,France,LockBit3.0
+574,2024-08-12,inouemfg.com,Manufacturing,China,LockBit3.0
+575,2024-08-12,ciasc.mx,Healthcare,Mexico,LockBit3.0
+576,2024-08-12,cdtmedicus.pl,Healthcare,Poland,LockBit3.0
+577,2024-08-12,bildco.ae,Construction,United Arab Emirates,LockBit3.0
+578,2024-08-11,vitema.vi.gov,Government,Vietnam,LockBit3.0
+579,2024-08-11,vinatiorganics.com,Pharmaceutical,India,LockBit3.0
+580,2024-08-11,vikrantsprings.com,Healthcare,United States,LockBit3.0
+581,2024-08-11,unisi.it,Education,Italy,LockBit3.0
+582,2024-08-11,acsistemas.com,IT Services,Brazil,LockBit3.0
+583,2024-08-11,thaiagri.com,Agriculture,Thailand,LockBit3.0
+584,2024-08-11,snapethorpeprimary.co.uk,Education,United Kingdom,LockBit3.0
+585,2024-08-11,sislocar.com,Logistics,United States,LockBit3.0
+586,2024-08-11,ondozabal.com,Healthcare,Spain,LockBit3.0
+587,2024-08-11,museu-goeldi.br,Healthcare,Brazil,LockBit3.0
+588,2024-08-11,mpeprevencion.com,Healthcare,Spain,LockBit3.0
+589,2024-08-11,kowessex.co.uk,Healthcare,United Kingdom,LockBit3.0
+590,2024-08-11,hotel-ostella.com,Hospitality,Romania,LockBit3.0
+591,2024-08-11,hetero.com,Healthcare,United States,LockBit3.0
+592,2024-08-11,garage-cretot.fr,Real Estate,France,LockBit3.0
+593,2024-08-11,essinc.com,Energy and Utilities,United States,LockBit3.0
+594,2024-08-11,equinoxinc.org,Logistics,United States,LockBit3.0
+595,2024-08-11,depenning.com,Healthcare,United States,LockBit3.0
+596,2024-08-11,cinealbeniz.com,Entertainment,Turkey,LockBit3.0
+597,2024-08-11,call4health.com,Healthcare,United States,LockBit3.0
+598,2024-08-11,brockington.leisc.sch.uk,Education,United Kingdom,LockBit3.0
+599,2024-08-11,asafoot.com,Education,United States,LockBit3.0
+600,2024-08-11,alian.mx,Financial Services,Mexico,LockBit3.0
+601,2024-08-11,joliet86.org,Education,United States,LockBit3.0
+602,2024-08-11,nationaldentex.com,Dental Services,United States,LockBit3.0
+603,2024-08-11,dunaway.com,Media/Entertainment,United States,LockBit3.0
+604,2024-08-11,manusa.com,Logistics,United States,LockBit3.0
+605,2024-08-11,rehub.ie,Media/Entertainment,Ireland,LockBit3.0
+606,2024-08-11,cms.law,Law/ Legal,United States,LockBit3.0
+607,2024-08-11,agencavisystems.com,Cybersecurity/Information Technology,France,LockBit3.0
+608,2024-08-11,keuka.edu,Education,United States,LockBit3.0
+609,2024-08-11,gorrias-mercedes-benz.fr,Automotive,France,LockBit3.0
+610,2024-08-11,ema-eda.com,Healthcare,Japan,LockBit3.0
+611,2024-08-11,kauffmanschool.org,Education,United States,LockBit3.0
+612,2024-08-11,ernesthealth.com,Healthcare,United States,LockBit3.0
+613,2024-08-11,morningstarco.com,Financial Services,United States,LockBit3.0
+614,2024-08-11,allcare-med.com,Healthcare,United States,LockBit3.0
+615,2024-08-11,utc-silverstone.co.uk,Motor Sports,United Kingdom,LockBit3.0
+616,2024-08-11,twpunionschools.org,Education,United States,LockBit3.0
+617,2024-08-11,jmjcorporation.com,Automotive,United States,LockBit3.0
+618,2024-08-11,countyins.com,Healthcare,United States,LockBit3.0
+619,2024-08-11,srg-plc.com,Engineering,United Kingdom,LockBit3.0
+620,2024-08-11,thede-culpepper.com,Healthcare,United States,LockBit3.0
+621,2024-08-11,skanlog.com,Logistics,Sweden,LockBit3.0
+622,2024-08-11,emanic.net,Aerospace,Canada,LockBit3.0
+623,2024-08-11,southernspecialtysupply.com,Wholesale/Distribution,United States,LockBit3.0
+624,2024-08-11,rollingfields.com,Agriculture,United States,LockBit3.0
+625,2024-08-11,qespavements.com,Construction,South Africa,LockBit3.0
+626,2024-08-11,daubertchemical.com,Chemicals,United States,LockBit3.0
+627,2024-08-11,morrisgroupint.com,Financial Services,United States,LockBit3.0
+628,2024-08-11,pricemodern.com,Healthcare,United States,LockBit3.0
+629,2024-08-11,churchill-linen.com,Manufacturing,United Kingdom,LockBit3.0
+630,2024-08-11,johnllowery.com,Law Firm,United States,LockBit3.0
+631,2024-08-11,sullivansteelservice.com,Steel Service/Construction,United States,LockBit3.0
+632,2024-08-11,divaris.com,Real Estate,Greece,LockBit3.0
+633,2024-08-11,clinicatezza.com.pe,Healthcare,Peru,LockBit3.0
+634,2024-08-11,fremontschools.net,Education,United States,LockBit3.0
+635,2024-08-11,exol-lubricants.com,Lubricants,South Africa,LockBit3.0
+636,2024-08-11,slpcolombus.com,Healthcare,United States,LockBit3.0
+637,2024-08-11,lesbureauxdelepargne.com,Banking,France,LockBit3.0
+638,2024-08-11,soprema.com,Building Materials,France,LockBit3.0
+639,2024-08-11,polycab.com,Cables and Wires Manufacturing,India,LockBit3.0
+640,2024-08-11,allweatheraa.com,Agriculture,United States,LockBit3.0
+641,2024-08-11,legacycpas.com,Accounting/CPA Firm,United States,LockBit3.0
+642,2024-08-11,luisoliveras.com,Healthcare,United States,LockBit3.0
+643,2024-08-11,sierraconstruction.ca,Construction,Canada,LockBit3.0
+644,2024-08-11,ablinc.com,Software/Technology,Australia,LockBit3.0
+645,2024-08-11,dmmerch.com,Wholesale/Retail,United States,LockBit3.0
+646,2024-08-11,sagaciousresearch.com,Market Research,United States,LockBit3.0
+647,2024-08-10,kronospublic.com,Healthcare,United States,LockBit3.0
+648,2024-08-04,dunaway.com,Healthcare,United States,LockBit3.0
+649,2024-08-04,kierlcpa.com,Accounting/Finance,United States,LockBit3.0
+650,2024-08-01,alliedtelesis.com,Telecommunications,New Zealand,LockBit3.0
+651,2024-08-01,at-global.com,Logistics,Germany,LockBit3.0
+652,2024-08-01,marvell.com,Semiconductor,United States,LockBit3.0
+653,2024-07-31,qftemb.com,Healthcare,United States,LockBit3.0
+654,2024-07-28,lavalpoincon.com,Education,France,LockBit3.0
+655,2024-07-28,sirva.com,Logistics and Supply Chain Management,United States,LockBit3.0
+656,2024-07-28,kendrion.com,Automotive,Netherlands,LockBit3.0
+657,2024-07-28,ccimp.com,Construction,United States,LockBit3.0
+658,2024-07-28,juvaskin.com,Healthcare,Estonia,LockBit3.0
+659,2024-07-28,eastern-sales.com,Wholesale/Manufacturing,United States,LockBit3.0
+660,2024-07-28,ciberviaxesespecial.net,Healthcare,Brazil,LockBit3.0
+661,2024-07-28,agapefrance.org,Healthcare,France,LockBit3.0
+662,2024-07-28,pbw-india.com,Engineering/Construction,India,LockBit3.0
+663,2024-07-28,kvie.org,Healthcare,United States,LockBit3.0
+664,2024-07-28,frilot.com,Financial Services,Poland,LockBit3.0
+665,2024-07-27,kns.com,Healthcare,United States,LockBit3.0
+666,2024-07-26,e21c.co.uk,Engineering,United Kingdom,LockBit3.0
+667,2024-07-26,petroassist.co.uk,Oil and Gas,United Kingdom,LockBit3.0
+668,2024-07-26,olea.com,Healthcare,Spain,LockBit3.0
+669,2024-07-26,cloudminds.com,Artificial Intelligence,South Korea,LockBit3.0
+670,2024-07-26,jdbchina.com,Logistics,China,LockBit3.0
+671,2024-07-26,hpo.pe,Healthcare,Peru,LockBit3.0
+672,2024-07-26,nationaldentex.com,Healthcare,United States,LockBit3.0
+673,2024-07-26,richmont.edu,Education,United States,LockBit3.0
+674,2024-07-26,aei.cc,Education,Germany,LockBit3.0
+675,2024-07-26,gitiusa.com,Healthcare,United States,LockBit3.0
+676,2024-07-26,carsonteam.com,Healthcare,United States,LockBit3.0
+677,2024-07-26,bkf-fleuren.de,Pharmaceutical,Germany,LockBit3.0
+678,2024-07-26,planethomelending.com,Financial Services,United States,LockBit3.0
+679,2024-07-26,bnpmedia.com,Media/Publishing,United States,LockBit3.0
+680,2024-07-26,atcdi.com.cn,Aerospace,China,LockBit3.0
+681,2024-07-26,homelandvinyl.com,Retail,United States,LockBit3.0
+682,2024-07-26,sandytownshippolice.org,Public Administration,United States,LockBit3.0
+683,2024-07-25,glnf.fr,Healthcare,France,LockBit3.0
+684,2024-07-24,fbrlaw.com,Legal Services,United States,LockBit3.0
+685,2024-07-22,tccfleet.com,Transportation,United States,LockBit3.0
+686,2024-07-22,kns.com,Healthcare,China,LockBit3.0
+687,2024-07-18,customssupport.be,Logistics,Belgium,LockBit3.0
+688,2024-07-18,barkingwell.gr,Healthcare,Greece,LockBit3.0
+689,2024-07-18,troyareasd.org,Education,United States,LockBit3.0
+690,2024-07-18,paysdelaloire.fr,Recruitment,France,LockBit3.0
+691,2024-07-18,glsco.com,Financial Services,United States,LockBit3.0
+692,2024-07-18,goldstarmetal.com,Mining,Canada,LockBit3.0
+693,2024-07-18,lothar-rapp.de,Manufacturing,Germany,LockBit3.0
+694,2024-07-18,albonanova.at,Healthcare,Austria,LockBit3.0
+695,2024-07-18,iteam.gr,Healthcare,Greece,LockBit3.0
+696,2024-07-18,claycountyin.gov,Local Government,United States,LockBit3.0
+697,2024-07-18,wattlerange.sa.gov.au,Local Government,Australia,LockBit3.0
+698,2024-07-18,lockbit.newcontacts,Professional Services,Norway,LockBit3.0
+699,2024-07-17,assih.com,Healthcare,Russia,LockBit3.0
+700,2024-07-17,gptchb.org,Healthcare,United States,LockBit3.0
+701,2024-07-17,piedmonthoist.com,Oil and Gas,United States,LockBit3.0
+702,2024-07-17,plantmachineworks.com,Manufacturing,United States,LockBit3.0
+703,2024-07-17,energateinc.com,Energy,United States,LockBit3.0
+704,2024-07-17,norton.k12.ma.us,Education,United States,LockBit3.0
+705,2024-07-17,kbc-zagreb.hr,Healthcare,Croatia,LockBit3.0
+706,2024-07-17,fairfieldmemorial.org,Healthcare,United States,LockBit3.0
+707,2024-07-15,townandforest.co.uk,Local Government/Community Services,United Kingdom,LockBit3.0
+708,2024-07-15,concorddirect.com,Healthcare,United States,LockBit3.0
+709,2024-07-15,competenz.co.nz,Healthcare,New Zealand,LockBit3.0
+710,2024-07-15,latinusa.co.id,Education,Indonesia,LockBit3.0
+711,2024-07-14,nicholsfleet.com,Transportation,United States,LockBit3.0
+712,2024-07-04,ws-stahl.eu,Manufacturing,Germany,LockBit3.0
+713,2024-07-02,merrymanhouse.org,Non-profit/Charity,United States,LockBit3.0
+714,2024-06-23,federalreserve.gov,Financial Services,United States,LockBit3.0
+715,2024-06-14,manncorp.com,Manufacturing,United States,LockBit3.0
+716,2024-06-10,ccmaui.org,Healthcare,United States,LockBit3.0
+717,2024-06-05,craigsteven.com,Healthcare,Canada,LockBit3.0
+718,2024-06-05,emainc.net,Healthcare,United States,LockBit3.0
+719,2024-06-02,smithandcaugheys.co.nz,Lawyers/Professional Services,New Zealand,LockBit3.0
+720,2024-06-02,heras.co.uk,Construction,United Kingdom,LockBit3.0
+721,2024-06-01,cfymca.org,Non-profit/Charity,United States,LockBit3.0
+722,2024-05-30,aytosanlorenzo.es,Automotive,Spain,LockBit3.0
+723,2024-05-27,valleyjoist.com,Manufacturing,United States,LockBit3.0
+724,2024-05-25,longviewoms.com,Healthcare,United States,LockBit3.0
+725,2024-05-25,sysroad.com,Transportation,United States,LockBit3.0
+726,2024-05-25,highwaystrust.com,Transportation,Canada,LockBit3.0
+727,2024-05-25,cafesnovell.com,Technology,Spain,LockBit3.0
+728,2024-05-25,sunpetro.com,Oil and Gas,Romania,LockBit3.0
+729,2024-05-25,kharafiglobal.com,Manufacturing,United States,LockBit3.0
+730,2024-05-25,mgops.sedziszow-mlp.pl,Healthcare,Poland,LockBit3.0
+731,2024-05-25,pressurejet.com,Oil and Gas Equipment Manufacturing,United States,LockBit3.0
+732,2024-05-25,multigroup.info,Healthcare,Ukraine,LockBit3.0
+733,2024-05-23,valleylandtitleco.com,Title Insurance and Services,United States,LockBit3.0
+734,2024-05-23,londondrugs.com,Retail,Canada,LockBit3.0
+735,2024-05-22,telekom.com,Telecommunications,Germany,LockBit3.0
+736,2024-05-22,powertestdyno.com,Oil and Gas,United States,LockBit3.0
+737,2024-05-21,originalfootwear.com,Retail,United States,LockBit3.0
+738,2024-05-21,ramfoam.com,Healthcare,United Kingdom,LockBit3.0
+739,2024-05-20,qualityplumbingassociates.com,Construction Services,United States,LockBit3.0
+740,2024-05-18,carcajou.fr,Healthcare,France,LockBit3.0
+741,2024-05-18,heartlandhealthcenter.org,Healthcare,United States,LockBit3.0
+742,2024-05-16,sunwave.com.cn,Telecommunications,China,LockBit3.0
+743,2024-05-14,acla.de,Healthcare,Germany,LockBit3.0
+744,2024-05-14,21stcenturyvitamins.com,Health and Wellness,United States,LockBit3.0
+745,2024-05-14,wichita.gov,Government,United States,LockBit3.0
+746,2024-05-13,oseranhahn.com,Healthcare,United States,LockBit3.0
+747,2024-05-13,hbmolding.com,Manufacturing,United States,LockBit3.0
+748,2024-05-10,contest.omg,Entertainment,Russia,LockBit3.0
+749,2024-05-10,colonialsd.org,Education,United States,LockBit3.0
+750,2024-05-09,incegroup.com,Consulting,United States,LockBit3.0
+751,2024-05-09,iaconnecticut.com,Healthcare,United States,LockBit3.0
+752,2024-05-09,indigo.ca,Retail,Canada,LockBit3.0
+753,2024-05-09,gruppobeltrame.com,Wood and wood products,Italy,LockBit3.0
+754,2024-05-09,equatortrustees.com,Financial Services,United Kingdom,LockBit3.0
+755,2024-05-09,ecotruck.com.br,Automotive,Brazil,LockBit3.0
+756,2024-05-09,cultivarnet.com.br,Agriculture,Brazil,LockBit3.0
+757,2024-05-09,ckfinc.com,Financial Services,United States,LockBit3.0
+758,2024-05-09,besttaxfiler.com,Accounting,United States,LockBit3.0
+759,2024-05-09,amsoft.cl,Software Development,Chile,LockBit3.0
+760,2024-05-09,faacgroup.com,Manufacturing,Italy,LockBit3.0
+761,2024-05-09,worldlearning.org,Education,United States,LockBit3.0
+762,2024-05-09,wisconsinindustrialcoatings.com,Manufacturing,United States,LockBit3.0
+763,2024-05-09,mckimcreed.com,Architecture/Construction,United States,LockBit3.0
+764,2024-05-09,nampak.com,Packaging,South Africa,LockBit3.0
+765,2024-05-09,taylorlaw.net,Legal Services,United States,LockBit3.0
+766,2024-05-09,kjf-augsburg.de,Manufacturing,Germany,LockBit3.0
+767,2024-05-09,disb.dc.gov,Government,United States,LockBit3.0
+768,2024-05-09,tascoplumbing.com,Plumbing/HVAC,United States,LockBit3.0
+769,2024-05-09,tu-ilmenau.de,Education,Germany,LockBit3.0
+770,2024-05-09,uslinen.com,Healthcare,United States,LockBit3.0
+771,2024-05-09,sesenergy.org,Energy,United States,LockBit3.0
+772,2024-05-09,lenmed.co.za,Healthcare,South Africa,LockBit3.0
+773,2024-05-09,dagma.com.ar,Healthcare,Argentina,LockBit3.0
+774,2024-05-09,kimmelcleaners.com,Cleaning/Janitorial Services,United States,LockBit3.0
+775,2024-05-09,ccofva.com,Healthcare,United States,LockBit3.0
+776,2024-05-09,ctc-corp.net,Construction,Canada,LockBit3.0
+777,2024-05-09,casajove.com,Healthcare,Spain,LockBit3.0
+778,2024-05-09,torrepacheco.es,Public Administration,Spain,LockBit3.0
+779,2024-05-09,habeco.com.vn,Logistics,Vietnam,LockBit3.0
+780,2024-05-09,easternshipbuilding.com,Shipbuilding,United States,LockBit3.0
+781,2024-05-09,redwoodcoastrc.org,Healthcare,United States,LockBit3.0
+782,2024-05-09,gpaa.gov.za,Government,South Africa,LockBit3.0
+783,2024-05-09,universalservicesms.com,Healthcare,United States,LockBit3.0
+784,2024-05-09,rmhfranchise.com,Healthcare,United States,LockBit3.0
+785,2024-05-09,ksa-architecture.com,Architecture/Engineering,United States,LockBit3.0
+786,2024-05-09,themisbourne.co.uk,Education,United Kingdom,LockBit3.0
+787,2024-05-09,calvia.com,Healthcare,Spain,LockBit3.0
+788,2024-05-09,nybravestfcu.org,Finance,United States,LockBit3.0
+789,2024-05-09,ufresources.com,Education,United States,LockBit3.0
+790,2024-05-09,rjcorp.in,Construction,India,LockBit3.0
+791,2024-05-09,acla-werke.com,Automotive,Germany,LockBit3.0
+792,2024-05-09,crinetics.com,Pharmaceuticals,United States,LockBit3.0
+793,2024-05-09,tegaindustries.com,Steel,United States,LockBit3.0
+794,2024-05-09,vm3fincas.es,Finance,Spain,LockBit3.0
+795,2024-05-09,garage-cretot.fr,Construction,France,LockBit3.0
+796,2024-05-09,cttxpress.com,Transportation,United States,LockBit3.0
+797,2024-05-09,iitm.ac.in,Education,India,LockBit3.0
+798,2024-05-09,doublehorse.in,E-commerce,India,LockBit3.0
+799,2024-05-09,vm3fincas.es,Financial Services,Spain,LockBit3.0
+800,2024-05-09,dpkv.cz,Transportation,Czech Republic,LockBit3.0
+801,2024-05-09,innophaseinc.com,Pharmaceuticals,United States,LockBit3.0
+802,2024-05-09,brfibra.com,Transportation,Brazil,LockBit3.0
+803,2024-05-09,vstar.in,Healthcare,India,LockBit3.0
+804,2024-05-09,interfashion.it,Fashion/Apparel,Italy,LockBit3.0
+805,2024-05-09,binder.de,Healthcare,Germany,LockBit3.0
+806,2024-05-09,evw.k12.mn.us,Education,United States,LockBit3.0
+807,2024-05-09,dsglobaltech.com,Technology,United States,LockBit3.0
+808,2024-05-09,elements-ing.com,Engineering/Manufacturing,Canada,LockBit3.0
+809,2024-05-09,itss.com.tr,Energy,Turkey,LockBit3.0
+810,2024-05-09,uniter.net,Education,United States,LockBit3.0
+811,2024-05-09,truehomesusa.com,Real Estate,United States,LockBit3.0
+812,2024-05-09,rushenergyservices.com,Energy,United States,LockBit3.0
+813,2024-05-09,livia.in,Healthcare,India,LockBit3.0
+814,2024-05-09,spu.ac.th,Education,Thailand,LockBit3.0
+815,2024-05-09,rfca.com,Healthcare,United States,LockBit3.0
+816,2024-05-09,mutualclubunion.com.ar,Labor Union,Argentina,LockBit3.0
+817,2024-05-09,snk.sk,Healthcare,Slovakia,LockBit3.0
+818,2024-05-09,college-stemarie-elven.org,Education,France,LockBit3.0
+819,2024-05-09,cargotrinidad.com,Transportation,Trinidad and Tobago,LockBit3.0
+820,2024-05-09,peninsulacrane.com,Construction,United States,LockBit3.0
+821,2024-05-09,vinatiorganics.com,Healthcare,India,LockBit3.0
+822,2024-05-09,orsiniimballaggi.com,Logistics/Transportation,Italy,LockBit3.0
+823,2024-05-09,grupopm.com,Healthcare,Portugal,LockBit3.0
+824,2024-05-09,randi-group.com,Logistics,Russia,LockBit3.0
+825,2024-05-09,totto.com,Education,Japan,LockBit3.0
+826,2024-05-09,salmonesaysen.cl,Healthcare,Chile,LockBit3.0
+827,2024-05-08,ajcfood.com,Food Processing,United States,LockBit3.0
+828,2024-05-06,bancodevenezuela.com,Finance,Venezuela,LockBit3.0
+829,2024-05-06,gammarenax.ch,Healthcare,Switzerland,LockBit3.0
+830,2024-05-06,oraclinical.com,Healthcare,United States,LockBit3.0
+831,2024-05-06,rammutual.com,Healthcare,United States,LockBit3.0
+832,2024-05-06,gslelectric.com,Electric Power Generation,United States,LockBit3.0
+833,2024-05-06,harwoodlloyd.com,Engineering/Construction,Australia,LockBit3.0
+834,2024-05-06,etships.com,Shipping,India,LockBit3.0
+835,2024-05-06,ville-bouchemaine.fr,Education,France,LockBit3.0
+836,2024-05-06,sonoco.com,Packaging/Logistics,United States,LockBit3.0
+837,2024-05-06,thebiglifegroup.com,Healthcare,United States,LockBit3.0
+838,2024-05-06,elarabygroup.com,Energy,Egypt,LockBit3.0
+839,2024-05-06,qintess.com,Consulting,United States,LockBit3.0
+840,2024-05-06,newsupri.com.br,Healthcare,Brazil,LockBit3.0
+841,2024-05-06,senacrs.com.br,Healthcare,Brazil,LockBit3.0
+842,2024-05-06,aev-iledefrance.fr,Transportation,France,LockBit3.0
+843,2024-05-06,piramal.com,Pharmaceuticals,India,LockBit3.0
+844,2024-05-06,remagroup.com,Real Estate,United States,LockBit3.0
+845,2024-05-06,grand-indonesia.com,Construction,Indonesia,LockBit3.0
+846,2024-05-06,carespring.com,Healthcare,United States,LockBit3.0
+847,2024-05-06,usherbrooke.ca,Healthcare,Canada,LockBit3.0
+848,2024-05-06,signiflow.com,Logistics,Canada,LockBit3.0
+849,2024-05-06,syntax-architektur.at,Architecture/Engineering,Austria,LockBit3.0
+850,2024-05-06,qstartlabs.com,Healthcare,United States,LockBit3.0
+851,2024-05-06,netspectrum.ca,Telecommunications,Canada,LockBit3.0
+852,2024-05-06,cdev.gc.ca,Government,Canada,LockBit3.0
+853,2024-05-06,isee.biz,Logistics,Russia,LockBit3.0
+854,2024-05-06,epr-groupe.fr,Healthcare,France,LockBit3.0
+855,2024-05-06,directradiology.com,Healthcare,United States,LockBit3.0
+856,2024-05-06,cpashin.com,Healthcare,Russia,LockBit3.0
+857,2024-05-06,bpce.com,Financial Services,France,LockBit3.0
+858,2024-05-06,aw-lawyers.com,Law Firm,United States,LockBit3.0
+859,2024-05-06,arcus.pl,Logistics,Poland,LockBit3.0
+860,2024-05-06,yucatan.gob.mx,Government,Mexico,LockBit3.0
+861,2024-05-06,hebeler.com,Automotive,United States,LockBit3.0
+862,2024-05-06,getcloudapp.com,Software,United States,LockBit3.0
+863,2024-05-06,parat-techology.com,Healthcare,Canada,LockBit3.0
+864,2024-05-06,chuzefitness.com,Health and Fitness,United States,LockBit3.0
+865,2024-05-06,geotechenv.com,Environmental Services,United States,LockBit3.0
+866,2024-05-06,foxsemicon.com,Semiconductor/Electronics,United States,LockBit3.0
+867,2024-05-06,alfiras.com,Logistics,Brazil,LockBit3.0
+868,2024-05-06,irc.be,IT/Internet,Belgium,LockBit3.0
+869,2024-05-06,htcinc.com,Engineering,United States,LockBit3.0
+870,2024-05-06,svenskakyrkan.se,Religion,Sweden,LockBit3.0
+871,2024-05-06,smbw.com.au,Banking and Finance,Australia,LockBit3.0
+872,2024-05-06,denave.com,Engineering/Manufacturing,United States,LockBit3.0
+873,2024-05-06,tdt.aero,Aerospace,Tonga,LockBit3.0
+874,2024-05-06,kras.hr,Healthcare,Croatia,LockBit3.0
+875,2024-05-06,eviivo.com,Hospitality,United Kingdom,LockBit3.0
+876,2024-05-06,sunray.com,Manufacturing,United States,LockBit3.0
+877,2024-05-06,sunnydesigns.com,Graphic Design,United States,LockBit3.0
+878,2024-05-06,ptow.com,Healthcare,United States,LockBit3.0
+879,2024-05-06,peachtree-medical.com,Healthcare,United States,LockBit3.0
+880,2024-05-06,atlanticeye.net,Healthcare,United States,LockBit3.0
+881,2024-05-06,central.k12.or.us,Education,United States,LockBit3.0
+882,2024-04-30,sbsofbak.com,Banking,United States,LockBit3.0
+883,2024-04-30,ottlite.com,Healthcare,United States,LockBit3.0
+884,2024-04-29,ch-cannes.fr,Education,France,LockBit3.0
+885,2024-04-29,eurosko.com,Logistics,Slovakia,LockBit3.0
+886,2024-04-22,dc.gov,Government,United States,LockBit3.0
+887,2024-04-19,rehab.ie,Healthcare,Ireland,LockBit3.0
+888,2024-04-17,craigwire.com,Financial Services,Canada,LockBit3.0
+889,2024-04-17,tristatetruckandequip.com,Transportation Equipment,United States,LockBit3.0
+890,2024-04-16,specialoilfield.com,Oil and Gas,United States,LockBit3.0
+891,2024-04-16,oraclecms.com,Healthcare,Australia,LockBit3.0
+892,2024-04-15,jeyesfluid.co.uk,Manufacturing,United Kingdom,LockBit3.0
+893,2024-04-15,tmt-mc.jp,Transportation,Japan,LockBit3.0
+894,2024-04-15,ndpaper.com,News/Publishing,Nigeria,LockBit3.0
+895,2024-04-13,countryvillahealth.com,Healthcare,United States,LockBit3.0
+896,2024-04-13,wblight.com,Healthcare,United States,LockBit3.0
+897,2024-04-13,dkpvlaw.com,Law/Justice,United States,LockBit3.0
+898,2024-04-11,crinetics.com,Biotechnology,United States,LockBit3.0
+899,2024-04-09,anovahealth.com,Healthcare,United States,LockBit3.0
+900,2024-04-08,lavelle.com,Healthcare,United States,LockBit3.0
+901,2024-04-06,earnesthealth.com,Healthcare,United States,LockBit3.0
+902,2024-04-05,truehomes.com,Real Estate,Canada,LockBit3.0
+903,2024-03-31,worthenind.com,Manufacturing,United Kingdom,LockBit3.0
+904,2024-03-31,sbmandco.com,Manufacturing,United States,LockBit3.0
+905,2024-03-27,krueth.de,Healthcare,Germany,LockBit3.0
+906,2024-03-27,pcscivilinc.com,Healthcare,United States,LockBit3.0
+907,2024-03-26,npgandour.com,Healthcare,Canada,LockBit3.0
+908,2024-03-26,agribank.com.na,Finance,Namibia,LockBit3.0
+909,2024-03-25,regencymedia.com.au,Media and Entertainment,Australia,LockBit3.0
+910,2024-03-25,silganholdings.com,Packaging,United States,LockBit3.0
+911,2024-03-21,northerncasket.com,Funeral Services,Canada,LockBit3.0
+912,2024-03-21,pathologie-bochum.de,Healthcare,Germany,LockBit3.0
+913,2024-03-19,sunholdings.net,Healthcare,United States,LockBit3.0
+914,2024-03-18,pronatindustries.com,Manufacturing,Canada,LockBit3.0
+915,2024-03-16,automotionshade.com,Automotive,United States,LockBit3.0
+916,2024-03-16,bergmeister.eu,Architecture,Germany,LockBit3.0
+917,2024-03-16,colefabrics.com,Textile/Apparel,United States,LockBit3.0
+918,2024-03-16,duttonbrock.com,Engineering,United States,LockBit3.0
+919,2024-03-16,hdstrading.com,Logistics,United States,LockBit3.0
+920,2024-03-16,newmans-online.co.uk,Pharmaceutical,United Kingdom,LockBit3.0
+921,2024-03-16,rrib.com,Healthcare,Romania,LockBit3.0
+922,2024-03-16,triella.com,Engineering/Construction,Sweden,LockBit3.0
+923,2024-03-16,certifiedcollection.com,Healthcare,United States,LockBit3.0
+924,2024-03-15,elezabypharmacy.com,Healthcare,Egypt,LockBit3.0
+925,2024-03-14,nationaldentex.com,Dental Services,United States,LockBit3.0
+926,2024-03-14,dhanisisd.net,Education,United States,LockBit3.0
+927,2024-03-14,journeyfreight.com,Logistics/Transportation,United States,LockBit3.0
+928,2024-03-13,nationaldentex.com,Dental Services,United States,LockBit3.0
+929,2024-03-13,geruestbau.com,Construction,Germany,LockBit3.0
+930,2024-03-10,nicklaus.com,Golf Course,United States,LockBit3.0
+931,2024-03-10,derrama.org.pe,Healthcare,Peru,LockBit3.0
+932,2024-03-10,apeagers.au,Education,Australia,LockBit3.0
+933,2024-03-09,magierp.com,Engineering/Architecture,Poland,LockBit3.0
+934,2024-03-02,smuldes.com,Transportation,United States,LockBit3.0
+935,2024-03-02,ccdrc.pt,Healthcare,Portugal,LockBit3.0
+936,2024-03-02,silganhodlings.com,Manufacturing,United States,LockBit3.0
+937,2024-03-02,prattindustries.com,Manufacturing,United States,LockBit3.0
+938,2024-03-02,crbgroup.com,Consulting,United Kingdom,LockBit3.0
+939,2024-03-02,unitednotions.com,Fashion,United States,LockBit3.0
+940,2024-03-02,thewalkerschool.org,Education,United States,LockBit3.0
+941,2024-03-02,schuett-grundei.de,Construction,Germany,LockBit3.0
+942,2024-03-02,roth-werkzeugbau.de,Manufacturing,Germany,LockBit3.0
+943,2024-03-02,roehr-stolberg.de,Automotive,Germany,LockBit3.0
+944,2024-03-02,starkpower.de,Energy,Germany,LockBit3.0
+945,2024-03-02,hotelemc2.com,Healthcare,United States,LockBit3.0
+946,2024-03-02,heinrichseegers.de,Engineering/Consulting,Germany,LockBit3.0
+947,2024-03-02,good-lawyer.com,Law Firm,United States,LockBit3.0
+948,2024-03-02,pcli.com,Healthcare,Canada,LockBit3.0
+949,2024-03-02,onyourmark.org,Non-profit organizations,United States,LockBit3.0
+950,2024-03-02,airalbania.com.al,Airlines,Albania,LockBit3.0
+951,2024-03-02,aipcenergy.com,Energy/Utilities,United States,LockBit3.0
+952,2024-03-02,aegean.gr,Transportation,Greece,LockBit3.0
+953,2024-03-02,adamjeeinsurance.com,Insurance,Pakistan,LockBit3.0
+954,2024-03-02,aerospace.com,Aerospace,United States,LockBit3.0
+955,2024-03-02,cityofbartlett.org,Local Government,United States,LockBit3.0
+956,2024-03-02,sinloc.com,Construction,United States,LockBit3.0
+957,2024-03-02,sirva.com,IT/Technology,United States,LockBit3.0
+958,2024-03-02,wombleco.com,Utilities,United Kingdom,LockBit3.0
+959,2024-03-02,tvh.com,Healthcare,United States,LockBit3.0
+960,2024-03-02,dena.de,Healthcare,Germany,LockBit3.0
+961,2024-03-02,muellersystems.com,Manufacturing,United States,LockBit3.0
+962,2024-03-02,mrm.com.mx,Financial Services,Mexico,LockBit3.0
+963,2024-03-02,esser-ps.de,Healthcare,Germany,LockBit3.0
+964,2024-03-02,cityofclarksville.com,Local Government,United States,LockBit3.0
+965,2024-03-02,estes-express.com,Logistics/Transportation,United States,LockBit3.0
+966,2024-03-02,boeing.com,Aerospace,United States,LockBit3.0
+967,2024-02-29,hartalega.com.my,Healthcare,Malaysia,LockBit3.0
+968,2024-02-29,gapsolutions.com.au,Healthcare,Australia,LockBit3.0
+969,2024-02-26,stemcor.com,Steel,United Kingdom,LockBit3.0
+970,2024-02-26,mcs360.com,Logistics,United States,LockBit3.0
+971,2024-02-26,igs-inc.com,Manufacturing,United States,LockBit3.0
+972,2024-02-26,groupe-idea.com,Consulting,France,LockBit3.0
+973,2024-02-26,apeagers.com.au,Healthcare,Australia,LockBit3.0
+974,2024-02-26,stsaviationgroup.com,Aviation/ Aerospace,United States,LockBit3.0
+975,2024-02-26,gatesshields.com,Cybersecurity,United Kingdom,LockBit3.0
+976,2024-02-26,aeromechinc.com,Aerospace,United States,LockBit3.0
+977,2024-02-24,fbi.gov,Government,United States,LockBit3.0

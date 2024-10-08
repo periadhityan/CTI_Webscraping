@@ -26,7 +26,7 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='RansomHub_Countries' name='textscan.1lnk2dx1grcm9a1f6udb61mq938s'>
-            <connection class='textscan' directory='/Users/periadhityan/Desktop/webscraping/CSV_files/Final_Distribution_Files' filename='RansomHub_Countries.csv' password='' server='' />
+            <connection class='textscan' directory='/Users/periadhityan/Desktop/webscraping/CSV_files/Countries' filename='RansomHub_Countries.csv' password='' server='' />
           </named-connection>
         </named-connections>
         <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.1lnk2dx1grcm9a1f6udb61mq938s' name='RansomHub_Countries.csv' table='[RansomHub_Countries#csv]' type='table'>
