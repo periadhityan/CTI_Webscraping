@@ -7,3 +7,9 @@ This is the jupyter notebook file used to clean the data, process and generate v
 
 ## 3. Raw_HTML
 These were the HTML files of the actual Ransomware group sites. We scraped data from these files to answer the question for the report.
+
+## 4. CSV_files
+CSV files contain the csv files that have been cleaned and seperated for data visualisation by Country and Industry
+
+## Preparation
+To run the webscraper and jupyternotebook files, install the dependancies by running 'pip install -r requirements.txt' to ensure all dependancies have been installed and then run each file. Uncomment each function you want to run to scrape data again if you have uploaded a new HTML file.

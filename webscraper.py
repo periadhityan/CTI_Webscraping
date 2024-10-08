@@ -127,8 +127,8 @@ def Lock():
         writer.writerows(data)
 
 
-Lock()
 
 #RansomHub()
 #Play()
 #LockBit3()
+#Lock()
